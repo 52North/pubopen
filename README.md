@@ -4,17 +4,11 @@
 
 These are the questions answered in this best practice published by the SDI team of the [GLUES](http://modul-a.nachhaltiges-landmanagement.de/de/wissenschaftliche-begleitung-glues/) project.
 
-Collections of files are called libraries, and each library can be synced
-separately. A library can be encrypted with a user chosen password. This
-password is not stored on the server, so even the server admin cannot view a
-file's contents.
-
-Seafile allows users to create groups with file syncing, wiki, and discussion to
-enable easy collaboration around documents within a team.
-
 ## LICENSE
 
-This best practice document is published as 
+![Creative Commons Attribution 4.0 International License](https://licensebuttons.net/l/by/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## About this best practice
 
