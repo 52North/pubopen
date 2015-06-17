@@ -20,7 +20,7 @@ Thanks to these people for providing valuable feedback, reporting errors, ...
 
 * TBD
 
-**Want to become a contributor?** Check our [contribution guidelines](CONTRIBUTE.MD).
+**Want to become a contributor?** Check our [contribution guidelines](CONTRIBUTE.md).
 
 ## Contact information
 
