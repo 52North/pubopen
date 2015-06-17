@@ -12,7 +12,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## About this best practice
 
-The "source code" of this document is hosted [on Github](https://github.com/52North/.....) and the book was written and published using [GitBook](https://www.gitbook.com).
+The "source code" of this document is hosted [on Github](https://github.com/52North/pubopen) and the book was written and published using [GitBook](https://www.gitbook.com).
 
 ## Contributors
 
