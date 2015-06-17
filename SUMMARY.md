@@ -1,3 +1,4 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Scope of this document](scope.md)
+* [Contribute](CONTRIBUTE.md)
