@@ -1,4 +1,4 @@
-This is the contribute.md of 52°North best practice document [Publishing Research Softwas as Open Source on GitHub](https://github.com/52North/pubopen). Great to have you here! Here are a few ways you can help!
+This is the contribute.md of 52°North best practice document [Publishing Research Softwas as Open Source on GitHub]({{ book.repoUrl }}). Great to have you here! Here are a few ways you can help!
 
 # Contribute.md
 
