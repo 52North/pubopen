@@ -29,7 +29,7 @@ You found a spelling error? A sentence could be misunderstood and you would like
 
 Great! This best practice is an open source document hosted on GitHub.
 
-* Before you contribute your changes, please read the used license (see [README.me](README.me)) - by contributing to this book in any way you signal your understanding of the license and its implications.
+* Before you contribute your changes, please read the used license (see [README.md](README.md)) - by contributing to this book in any way you signal your understanding of the license and its implications.
 * Fork the repository on GitHub.
 * Make your changes to the respective files. Split them into thematically sound git commits with informative commit messages.
 * Create a [pull request](https://help.github.com/articles/using-pull-requests/).
@@ -39,7 +39,7 @@ Great! This best practice is an open source document hosted on GitHub.
 
 This section includes advice on how to add new sections to the best practice.
 
-* Before you contribute your changes, please read the used license (see [README.me](README.me)) - by contributing to this book in any way you signal your understanding of the license and its implications.
+* Before you contribute your changes, please read the used license (see [README.md](README.md)) - by contributing to this book in any way you signal your understanding of the license and its implications.
 * Open a [new issue on GitHub]({{ variables.repoUrl }}/issues/new) and explain what information is missing in the best practice and why.
 * After discussing with the maintainers of the work, fork the repository on GitHub.
 * Make your changes.
