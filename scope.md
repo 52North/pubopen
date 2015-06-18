@@ -10,6 +10,6 @@ On the other hand, the experiences behind this work come from participation of a
 We cannot cover specifc programming languages or recommend specific libraries of application domains, such as hydrology, physics, or geomorphology. Please feel free to contribute such information as chapters to this document.
 
 
-<div class="guide.box">
-    <h1 class="guide.title">Open Guide: Should I publish my code?</h1>
+<div class="guide">
+    <h1>Open Guide: Should I publish my code?</h1>
 </div>
