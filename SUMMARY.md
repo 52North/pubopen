@@ -9,6 +9,7 @@
    * [Guide](science/guide.md)
 * [Open Source Basics](opensource/index.md)
 * [Software Communities](communities/index.md)
+   * Arguments against open source... and how to disprove them
 * [Scientific Publishing of Data and Software](publishing/index.md)
 * [Contribute](CONTRIBUTE.md)
 
