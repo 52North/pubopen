@@ -1,6 +1,6 @@
 <div class="panel panel-info">
     <div class="panel-heading">
-        <h3 class="panel-title">{{ book.guidetitle }} Do software "right" from the start</h3>
+        <h3 class="panel-title"><i class="octicon octicon-megaphone"></i> Guide: Do software "right" from the start</h3>
     </div>
     <div class="panel-body">
         <p>In short... <b>yes.</b></p>
@@ -13,3 +13,4 @@
         <i class="octicon octicon-comment-discussion"></i> This is an opinionated view. What are your experiences? Get in touch and contribute!
     </div>
 </div>
+
