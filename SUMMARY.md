@@ -18,6 +18,7 @@
    * [Project Organisation](communities/organisation.md)
    * [Marketing and Public Relations](communities/marketing.md)
    * Types of Contributors and Tasks
+   * Documentation
 * [Scientific Publishing of Data and Software](publishing/index.md)
 * [Contribute](CONTRIBUTE.md)
 
