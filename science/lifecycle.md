@@ -2,6 +2,17 @@
 
 * show how a software dev lifecycle is not contradictory to research (projects)
 
+# Collaborative Software Development
+
+Overview…
+What is needed for an OS project: SCM, dynamic documentation platform (wiki), issue tracker, website, mailig list
+
+* project management
+  * task management
+  * list some systems
+* wikis
+
+
 
 ## Source Code Management
 
@@ -14,15 +25,20 @@
 * https://github.com/Geosoft2/geosoft2-2014-fundamentals/tree/master/01-collaborative-software-dev
 
 
-## Collaboration Platforms
-
-* project management
-  * task management
-  * list some systems
-* wikis
-
+## Platforms
 
 ### GitHub
+
+open collaboration
+use fork & pull
+social software development
+
+
+### Other Platforms
+
+BitBucket
+
+...
 
 
 ## Dependency Management
