@@ -10,6 +10,15 @@ On the other hand, the experiences behind this work come from participation of a
 We cannot cover specifc programming languages or recommend specific libraries of application domains, such as hydrology, physics, or geomorphology. Please feel free to contribute such information as chapters to this document.
 
 
-<div class="guide" style="padding: 1em;">
-    <h1>Open Guide: Should I publish my code?</h1>
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h3 class="panel-title">Open Guide: Should I publish my code?</h3>
+    </div>
+    <div class="panel-body">
+        <p>In short... <b>yes.</b></p>
+        <p>By publishing your code you can effectively...</p>
+        <ul>
+            <li>demonstrate scientific rigour.</li>
+        </ul>
+    </div>
 </div>
