@@ -14,7 +14,7 @@
    * [Legal Stuff](opensource/legal.md)
    * [Guide](opensource/guide.md)
 * [Software Communities](communities/index.md)
-   * Community Building and Openness
+   * [Community Building and Openness](communities/building.md)
 * [Scientific Publishing of Data and Software](publishing/index.md)
 * [Contribute](CONTRIBUTE.md)
 
