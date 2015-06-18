@@ -8,15 +8,16 @@
         <ul>
             <li>Read a minimum of software development principles so that you know where you can find help. No need to actually learn someting you can always look up!</li>
             <li>Don't reinvent the wheel, use established libraries</li>
-            <li>Use established build environments, depende and documentation frameworks for your language of choice, and even if you don't plan to publish your code to public repositories, do package it for them because it will enforce good practices.
+            <li>Use established build and dependency management solutions for your language of choice, and even if you don't plan to publish your code to public repositories, do package it for them because it will enforce good practices.
             <ul>
-                <li>use <a href="http://maven.apache.org/">Maven</a> for <b>Java</b> and add <a href="">JavaDoc<a/></li>
-                <li>write an <a href="htt</a>p://cran.r-project.org/doc/manuals/R-exts.html">extension package</a> for <i class="octicon octicon-heart"></i> <b>R</b> with a Markdown vignette and load required packages from <a href="">CRAN</a></li>
+                <li>use <a href="http://maven.apache.org/">Maven</a> or <a href="">Gradle</a> for <b>Java</b></li>
+                <li>write an <a href="htt</a>p://cran.r-project.org/doc/manuals/R-exts.html">extension package</a> for <i class="octicon octicon-heart"></i> <b>R</b> and load required packages from <a href="http://cran.r-project.org/">CRAN</a></li>
                 <li>write a <a href="https://pypi.python.org/pypi">PyPi</a> module when using <b>Python</b>
                 <li>use <a href="">Grunt</a> and <a href="http://bower.io/">Bower</a> for <b>JavaScript</b>, and package your code in an <a href="https://www.npmjs.com/">NPM module</a></li>
                 <!--<li><b>Matlab</b>?</li>-->
             </ul>
             <li>Document constanctly - use "future you" without any previous knowledge as the recipient to judge level of detail of documentation</li>
+            <li>Use a common documentation solution - see [Guide: Documentation Frameworks](./communities/guide-documentation.md).
         </ul>
     </div>
     <div class="panel-footer">
