@@ -2,9 +2,43 @@
 
 Research of today is driven by (sometimes large amounts of) data from various sources and of manifold aspects. Often this data is published as "open" data and within research projects. It is analyzed with general and expert software written by informaticians and domain scientists alike. The projects have a life span of 2 to 4 years. Often this software is deemed unfit for publication, although the idea of open source software is widespread. Too often though **the reason for not publishing the software is lack of time or knowledge**. This best practice will provide arguments and workflows that allow an effective and cost-worthy publication as well as long-term maintenance and management of research software as open source software.
 
-The **target audience** are project managers, work group leaders, and scientists from all domains that use code for their research but do not publish it yet. The document provides a quick overview into relevant topics and provides references to more detailed work. Where useful it also contains short guides to answer practical questions.
+The **target audience** are project managers, work group leaders, and scientists from all domains that use code for their research but do not publish it yet. The document provides a quick overview into relevant topics and provides references to more detailed work. The authors aim to use plain language to explain technical topics, but also introduce you to the "lingo" of open source software development. Where useful we add **<i class="octicon octicon-megaphone"></i> Open Guides** to approach a topic from a very opinionated standpoint to answer the most relevant questions for practical applications.
 
 On the one hand, the goal of this publication is to give research project leaders, principal investigators, and researchers a set of workflows that increase the amount of reusable open source software to optimize research and its impact, as well as arguments for negotiations with supervisors or funding agencies that argue in favour of a publication.
 On the other hand, the experiences behind this work come from participation of an open source initiative and small enterprise, which uses open source software as its means of doing applied research in the geoinformatics domain, in funded research projects. These experiences are put into writing for the first time to improve the process of doing problem-driven research within such an organisation.
 
-We cannot cover specifc programming languages or recommend specific libraries of application domains, such as hydrology, physics, or geomorphology. Please feel free to contribute such information as chapters to this document.
+We cannot cover specifc programming languages or recommend specific libraries of application domains, such as hydrology, physics, or geomorphology. Please feel free to <i class="octicon octicon-comment-discussion"></i> contribute such information as chapters to this document.
+
+<!-- https://octicons.github.com/ -->
+As you might have noticed, we try to use icons in the text to show when content is <i class="octicon octicon-alert"></i> important, up for <i class="octicon octicon-comment-discussion"></i> discussion, our <i class="octicon octicon-megaphone"></i> opinion, covers <i class="octicon octicon-law"></i> legal aspects, especially relevant for <i class="octicon octicon-mortar-board"></i> PhD students, based on <i class="octicon octicon-link-external"></i> external resources or <i class="octicon octicon-quote"></i> quotes, related to <i class="octicon octicon-pencil"></i> scientific publications, covers <i class="octicon octicon-pulse"></i> new or <i class="octicon octicon-flame"></i> "hot" but naturally unestablished topics, or we simply <i class="octicon octicon-heart"></i> like it.
+
+<!-- http://styleguide.gitbook.com/ -->
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h3 class="panel-title"><i class="octicon octicon-megaphone"></i> Guide: Should I publish my code, when, and what part of it?</h3>
+    </div>
+    <div class="panel-body">
+        <p>In short... <b>yes, from the start, the reusable abstract core.</b></p>
+        <p>But you should not publish your code as part of a "dissemination" for others to use at the end of your work. If you don't plan to continue working on something, don't dump it on the world.</p>
+        
+        <p>By publishing your code you can effectively...</p>
+        <ul>
+            <li>demonstrate scientific rigour.</li>
+            <li>...</li>
+        </ul>
+        
+        <p>The most crucial question is what part of the code should be published. Publish reusable partitions / core libraries / abstract functionality, instead of "solution" to your own problem. The solution to your problem is of course still integrated in the code, but as one of potentially many applications. This allows other to re-use your code, contribute to improve it, and you to take advantage of their improvements.</p>
+        
+        <p>If possible, you should not start a new project at all but identify an existing solution, framework or community and contribute your new work to it. If you have a valid contribution and can maintain it for some time, any community will welcome you with open arms.</p>
+        
+        <p>The guides in this book apply to different degress both to very small projects, such as a new algorithm for a specific problmen in biochemistry, to large ones, such as a new cloud-based communication framework for the next generation of internet of things sensor nodes.</p>
+    </div>
+    <div class="panel-footer">
+        <p><i class="octicon octicon-comment-discussion"></i> This is an opinionated view. What are your experiences? Get in touch and contribute!</p>
+        <p><b>Further resources<b></p>
+        <ul>
+            <li>https://wiki.52north.org/bin/view/Documentation/BestPracticeOpenSourceForUniversityResearchers</li>
+            <li>...</li>
+        </ul>
+    </div>
+</div>

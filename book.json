@@ -1,6 +1,7 @@
 {
     "title": "Publishing Research Software as Open Source on GitHub",
     "variables": {
-        "repoUrl": "https://github.com/52North/pubopen"
+        "repoUrl": "https://github.com/52North/pubopen",
+        "guidetitle": "Open Guide: "
     }
 }
