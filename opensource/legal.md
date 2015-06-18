@@ -37,3 +37,5 @@ http://www.gnu.org/licenses/why-affero-gpl.en.html
 ## Contributor License Agreements
 
 why, what for, how?
+
+(links in Email auf 52N Staff discussion)
