@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](README.md)
+* [Introduction](README.md)
 * [Scope & Goals](scope.md)
 * [Science & Software](science/index.md)
    * [Reproducibility](science/reproducibility.md)
@@ -10,6 +10,8 @@
 * [Open Source Basics](opensource/index.md)
   * [Mindset](opensource/mindset.md)
   * [Arguments against open source... and how to disprove them](opensource/arguments.md)
+  * [Success Stories](opensource/success.md)
+  * [Legal Stuff](opensource/legal.md)
 * [Software Communities](communities/index.md)
 * [Scientific Publishing of Data and Software](publishing/index.md)
 * [Contribute](CONTRIBUTE.md)
