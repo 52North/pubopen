@@ -15,7 +15,7 @@
    * [Guide](opensource/guide.md)
 * [Software Communities](communities/index.md)
    * [Community Building and Openness](communities/building.md)
-   * Project Organisation
+   * [Project Organisation](communities/organisation.md)
 * [Scientific Publishing of Data and Software](publishing/index.md)
 * [Contribute](CONTRIBUTE.md)
 
