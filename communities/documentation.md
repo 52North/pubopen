@@ -18,3 +18,26 @@ python > rST dingen von sos.js
 R > markdown vignette 
 
 
+
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h3 class="panel-title"><i class="octicon octicon-megaphone"></i> Guide: What license should I use for documentation</h3>
+    </div>
+    <div class="panel-body">
+        <p>First of all: Congratulations! You realized that you should <b>not use a software/code license for text and images</b>. Or didn't you? Well, you know now.</p>
+        
+        <ul>
+            <li>...</li>
+        </ul>
+        
+    </div>
+    <div class="panel-footer">
+        <p><i class="octicon octicon-comment-discussion"></i> This is an opinionated view. What are your experiences? Get in touch and contribute!</p>
+        <p><b>Further resources<b></p>
+        <ul>
+            <li>...</li>
+        </ul>
+    </div>
+</div>
+
+
