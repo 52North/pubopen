@@ -11,5 +11,5 @@ We cannot cover specifc programming languages or recommend specific libraries of
 
 
 <div class="guide.box">
-<h1 class="guide.title">Open Guide: Should I publish my code?</h1>
+    <h1 class="guide.title">Open Guide: Should I publish my code?</h1>
 </div>
