@@ -23,8 +23,6 @@ creative commons
 
 popular = people actually like and dislike licenses!
 
-http://choosealicense.com/
-
 ### MIT License (MIT)
 
 ### Apache Software License (ASL)
@@ -39,6 +37,3 @@ http://www.gnu.org/licenses/why-affero-gpl.en.html
 ## Contributor License Agreements
 
 why, what for, how?
-
-
-What license should I use for my software project? 
