@@ -1,6 +1,6 @@
 <div class="panel panel-info">
     <div class="panel-heading">
-        <h3 class="panel-title">Do software "right" from the start</h3>
+        <h3 class="panel-title">{{ book.guidetitle }} Do software "right" from the start</h3>
     </div>
     <div class="panel-body">
         <p>In short... <b>yes.</b></p>
