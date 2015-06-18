@@ -16,7 +16,7 @@
 * [Software Communities](communities/index.md)
    * [Community Building and Openness](communities/building.md)
    * [Project Organisation](communities/organisation.md)
-   * Marketing and Public Relations
+   * [Marketing and Public Relations](communities/marketing.md)
 * [Scientific Publishing of Data and Software](publishing/index.md)
 * [Contribute](CONTRIBUTE.md)
 
