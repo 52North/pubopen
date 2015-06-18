@@ -2,11 +2,11 @@
 
 @Ann
 
-Twitter
+<i class="octicon octicon-bug"></i> Twitter
 
-Blogs
+<i class="octicon octicon-bug"></i> Blogs
 
-managing expectations (openness)
+<i class="octicon octicon-bug"></i> managing expectations (openness)
 
 
 <div class="panel panel-info">
@@ -20,9 +20,9 @@ managing expectations (openness)
         
         <p>OK OK, new project it is. Then take a look around related projects and communities within the language or framework you base your code on. Are abbreviations common? Do people use rather hip or cool names? This is also a good opportunity to check for existing names.<p>
         
-        https://www.google.de/search?q=good+software+project+names (trademarks, …)
-        
-http://www.webdeveloper.com/forum/showthread.php?113873-Great-software-project-names&s=14592899cd3b32c3df12f39bf4616c5e&p=605183#post605183 
+<i class="octicon octicon-bug"></i> https://www.google.de/search?q=good+software+project+names (trademarks, …)
+
+<i class="octicon octicon-bug"></i> http://www.webdeveloper.com/forum/showthread.php?113873-Great-software-project-names&s=14592899cd3b32c3df12f39bf4616c5e&p=605183#post605183 
         
         <p>In short:</p>
         <ul>
