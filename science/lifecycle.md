@@ -2,7 +2,6 @@
 
 * show how a software dev lifecycle is not contradictory to research (projects)
 
-
 ## Source Code Management
 
 * list different systems
