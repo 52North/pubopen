@@ -12,7 +12,7 @@
    * [Arguments against open source... and how to disprove them](opensource/arguments.md)
    * [Success Stories](opensource/success.md)
    * [Legal Stuff](opensource/legal.md)
-   * Guide
+   * [Guide](opensource/guide.md)
 * [Software Communities](communities/index.md)
 * [Scientific Publishing of Data and Software](publishing/index.md)
 * [Contribute](CONTRIBUTE.md)
