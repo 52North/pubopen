@@ -41,3 +41,4 @@ http://www.gnu.org/licenses/why-affero-gpl.en.html
 why, what for, how?
 
 
+What license should I use for my software project? 
