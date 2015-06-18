@@ -2,7 +2,7 @@
 
 * [Scope & Goals](scope.md)
 * [Science & Software](science/index.md)
-* [Open Source Basics](opensource.md)
-* [Software Communities](communities.md)
-* [Scientific Publishing of Data and Software](publishing.md)
+* [Open Source Basics](opensource/index.md)
+* [Software Communities](communities/index.md)
+* [Scientific Publishing of Data and Software](publishing/index.md)
 * [Contribute](CONTRIBUTE.md)
