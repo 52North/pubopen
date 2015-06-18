@@ -37,6 +37,9 @@ social software development
 ### Other Platforms
 
 BitBucket
+Sourceforge
+R-Forge
+(irgendwas für Python?)
 
 ...
 
