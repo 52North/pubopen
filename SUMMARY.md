@@ -6,7 +6,7 @@
    * [Reproducibility](science/reproducibility.md)
    * [Software Quality](science/quality.md)
    * [Software Development Lifecycle](science/lifecycle.md)
-   * [Software Documentation](communities/documentation.md)
+   * [Software Documentation](science/documentation.md)
    * [Guide](science/guide.md)
 * [Open Source Basics](opensource/index.md)
    * [Mindset](opensource/mindset.md)
