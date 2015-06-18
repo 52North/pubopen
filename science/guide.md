@@ -17,7 +17,7 @@
                 <!--<li><b>Matlab</b>?</li>-->
             </ul>
             <li>Document constanctly - use "future you" without any previous knowledge as the recipient to judge level of detail of documentation</li>
-            <li>Use a common documentation solution - see [Guide: Documentation Frameworks](./communities/guide-documentation.md).
+            <li>Use a common documentation solution - see [Documentation](./communities/documentation.md).
         </ul>
     </div>
     <div class="panel-footer">
