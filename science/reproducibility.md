@@ -1,3 +1,6 @@
-# First Chapter
+# Reproducibility
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+* What is it, why does it matter?
+* How does it relate to software?
+* References to 3-4 prominent papers
+
