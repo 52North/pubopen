@@ -15,16 +15,30 @@ As you might have noticed, we try to use icons in the text to show when content 
 <!-- http://styleguide.gitbook.com/ -->
 <div class="panel panel-info">
     <div class="panel-heading">
-        <h3 class="panel-title"><i class="octicon octicon-megaphone"></i> Open Guide: Should I publish my code?</h3>
+        <h3 class="panel-title"><i class="octicon octicon-megaphone"></i> Guide: Should I publish my code, when, and what part of it?</h3>
     </div>
     <div class="panel-body">
-        <p>In short... <b>yes.</b></p>
+        <p>In short... <b>yes, from the start, the reusable abstract core.</b></p>
+        <p>But you should not publish your code as part of a "dissemination" for others to use at the end of your work. If you don't plan to continue working on something, don't dump it on the world.</p>
+        
         <p>By publishing your code you can effectively...</p>
         <ul>
             <li>demonstrate scientific rigour.</li>
+            <li>...</li>
         </ul>
+        
+        <p>The most crucial question is what part of the code should be published. Publish reusable partitions / core libraries / abstract functionality, instead of "solution" to your own problem. The solution to your problem is of course still integrated in the code, but as one of potentially many applications. This allows other to re-use your code, contribute to improve it, and you to take advantage of their improvements.</p>
+        
+        <p>If possible, you should not start a new project at all but identify an existing solution, framework or community and contribute your new work to it. If you have a valid contribution and can maintain it for some time, any community will welcome you with open arms.</p>
+        
+        <p>The guides in this book apply to different degress both to very small projects, such as a new algorithm for a specific problmen in biochemistry, to large ones, such as a new cloud-based communication framework for the next generation of internet of things sensor nodes.</p>
     </div>
     <div class="panel-footer">
-        <i class="octicon octicon-comment-discussion"></i> This is an opinionated view. What are your experiences? Get in touch and contribute!
+        <p><i class="octicon octicon-comment-discussion"></i> This is an opinionated view. What are your experiences? Get in touch and contribute!</p>
+        <p><b>Further resources<b></p>
+        <ul>
+            <li>https://wiki.52north.org/bin/view/Documentation/BestPracticeOpenSourceForUniversityResearchers</li>
+            <li>...</li>
+        </ul>
     </div>
 </div>
