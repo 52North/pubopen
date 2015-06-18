@@ -1,7 +1,10 @@
 .guide {
     box-shadow: 6px 6px 10px 2px rgba(140,140,140,1);
+    border: 2px solid green;
+    padding: 1em;
 }
 
 .guide .h1 {
     color: red;
+    margin-bottom: 1em;
 }
