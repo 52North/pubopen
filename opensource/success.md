@@ -20,3 +20,5 @@ http://www.itworld.com/article/2827587/enterprise-software/10-most-successful-op
 
 http://www.techdrivein.com/2010/08/11-biggest-open-source-success-stories.html
 
+http://royal.pingdom.com/2009/05/29/the-8-most-successful-open-source-products-ever/ (rather old, misses Android...)
+
