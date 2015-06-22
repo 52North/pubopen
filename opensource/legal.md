@@ -162,6 +162,9 @@ Notices are not required to secure copyright.
 *<i class="octicon octicon-quote"></i> Contrary to popular belief, copyright notices aren’t required to secure copyright. Each developer holds copyright in his or her code the moment it is written, and because all the world’s major copyright systems—including the US after 1976—do not require notices, publishing code without a copyright notice doesn’t change this. However, notices do have some legal effect. For example, someone who infringes the copyright of a program published without a notice may be able to claim that the infringement was “innocent” because he or she had no notice of the developers’ copyright claim, and thus seek reduced damages.*
 http://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html 
 
+## IPR, Licensing and Patents
+
+http://oss-watch.ac.uk/resources/ipr
 
 ## Version Control System
 
