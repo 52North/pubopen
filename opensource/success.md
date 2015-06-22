@@ -14,3 +14,7 @@ Mention MapBox or CartoDB and the like?
 
 
 Get a detailed inside view to activities of open source projects on [Open Hub](https://www.openhub.net/).
+
+
+http://www.itworld.com/article/2827587/enterprise-software/10-most-successful-open-source-projects-of-2012.html
+
