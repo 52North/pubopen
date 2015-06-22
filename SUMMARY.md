@@ -19,6 +19,7 @@
    * [Basics: Accounts & Repositories](basics.md)
    * [Fork & Pull Workflow](workflow.md)
    * [GitHub for Education](education.md)
+   * Social Coding
 * [Software Communities](communities/index.md)
    * [Community Building and Openness](communities/building.md)
    * [Project Organisation](communities/organisation.md)
