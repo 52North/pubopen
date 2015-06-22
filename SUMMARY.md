@@ -25,7 +25,7 @@
    * [Project Organisation](communities/organisation.md)
    * [Marketing and Public Relations](communities/marketing.md)
    * [Types of Contributors and Tasks](communities/contributors.md)
-   * Open Source in Your Domain
+   * [Open Source in Your Domain](domains.md)
 * [Scientific Publishing of Data and Software](publishing/index.md)
 * [Contribute](CONTRIBUTE.md)
 
