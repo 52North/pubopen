@@ -2,7 +2,10 @@
 
 http://video.esri.com/watch/3223/social-coding-and-the-future-of-open-source 
 
+http://whatis.techtarget.com/definition/social-coding
+
 https://wiki.eclipse.org/Social_Coding
+http://www.eclipse.org/org/SocialCodingFAQ.php
 
 http://www.techrepublic.com/blog/it-consultant/social-coding-the-next-wave-in-development/
 
