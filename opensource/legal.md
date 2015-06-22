@@ -32,15 +32,24 @@ https://tldrlegal.com/
 
 popular = people actually like and dislike licenses!
 
-### MIT License (MIT)
+* MIT License (MIT) and BSD
+  * http://en.wikipedia.org/wiki/MIT_License respectively http://en.wikipedia.org/wiki/BSD_licenses 
+  * Non-copyleft, permissive
+* Apache Software License (ASL)
+  * Apache Software License, http://www.apache.org/ 
+  * Non-copyleft, permissive
+* GNU General Public License (GPL), strong copyleft
+* LGPL > GNU Lesser General Public License, freedom is “less” guaranteed > http://en.wikipedia.org/wiki/LGPL 
+  * Weak copyleft
+* Affero General Public License (AGPL) http://www.gnu.org/licenses/why-affero-gpl.en.html
+  * avoding the “ASP loophole” for web services > http://en.wikipedia.org/wiki/Affero_General_Public_License 
+  * Strong copyleft
 
-### Apache Software License (ASL)
 
-### GNU General Public License (GPL)
-
-### Affero General Public License (AGPL)
-
-http://www.gnu.org/licenses/why-affero-gpl.en.html
+All of these are licenses for software code, and **NOT** for
+* creative work or art,
+* licenses for open data, or
+* licenses for open hardware.
 
 
 ## Contributor License Agreements
