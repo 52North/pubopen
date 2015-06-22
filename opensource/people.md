@@ -26,3 +26,8 @@ Read the essays ["The Cathedral and the Bazaar"](http://en.wikipedia.org/wiki/Th
 Linux
 
 git
+
+## Lawrence Lessig
+
+
+https://en.wikipedia.org/wiki/Lawrence_Lessig
