@@ -10,11 +10,13 @@ Open source has a strong relation to science and research, with many institution
 
 ### Definition
 
-The OSI [defines](http://opensource.org/osd) open source as software following a set of criteria that ensure free distribution, extendability, and non-discrimination. The full criteria are online and the [annotated version](http://opensource.org/osd-annotated) is a highly recommended read. The minimal excerpt of the definition by the Free Software Foundation is as follows and is the one paragraph that you should remember.
+The OSI [defines](http://opensource.org/osd) open source as software following a set of criteria that ensure free distribution, extendability, and non-discrimination. The full criteria are online and the [annotated version](http://opensource.org/osd-annotated) is a highly recommended read. The minimal excerpt of the [definition by the Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html) (FSF) is as follows and is the one paragraph that you should remember.
 
 *<i class="octicon octicon-quote"></i> “Free software” means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price.* ([source](https://www.gnu.org/philosophy/free-sw.html))
 
-Optional read for a discussion of the controversy defining what open source software is, please see Wikipedia [here](https://en.wikipedia.org/wiki/Open-source_software) and [here](https://en.wikipedia.org/wiki/Free_and_open-source_software).
+Read the full definition and try to make up your own mind about the "campaign" of the FSF, if you agree that nonfree software is "unethical", and how FSF and OSI relate to each other.
+
+For an optional read about the controversy defining what open source software is, please see Wikipedia [here](https://en.wikipedia.org/wiki/Open-source_software) and [here](https://en.wikipedia.org/wiki/Free_and_open-source_software).
 
 ### History
 
