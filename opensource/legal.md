@@ -71,14 +71,36 @@ Berne convention
 TRIPS
 http://en.wikipedia.org/wiki/Agreement_on_Trade-Related_Aspects_of_Intellectual_Property_Rights
 
-### Software Copyright
+### Software Copyright and Copyright Infringement
 
 Proprietary software & free and open source licenses rely on it.
 
-Case law exists, bit withEU and US … everything is still in the flow… lessFUD though!
-
+Case law exists, bit within EU and US … everything is still in the flow… less FUD though!
 
 http://en.wikipedia.org/wiki/Software_copyright
+
+**Copyright Infringement**
+
+Using copyrighted works without permission from the copyright holder, or not following their terms and conditions.
+
+“Certain free software licenses, most notably GNU General Public License (GPL) substantially rely on existing copyright law. It is not possible to enforce GPL other than within the framework of existing copyright law.”
+http://en.wikipedia.org/wiki/Copyright_infringement 
+
+copyright goes two ways
+
+“Nearly every free software project includes two types of legal information with its source code: the license(s) of the code and the copyright notices of contributing authors.”
+http://www.softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html
+
+Got to understand license compatibility
+
+Must include licenses of used software
+
+If I create changed versions I must make sure all previous versions adhered to the license. 
+
+http://www.estrategy-magazin.de/open-source-software-rechtliche-hintergruende-sowie-chancen-und-risiken-fuer-unternehmen.html
+
+Distributed VCS work better in tracing contributions
+
 
 
 ## License Types
