@@ -10,6 +10,8 @@ Barriers to FOSS4G Adoption > http://vimeo.com/106231223
 * Communities and processes (Apache, OSGeo)
 
 
+http://oss-watch.ac.uk/resources/buildingcommunities
+
 ## Openness
 
 open innovation
