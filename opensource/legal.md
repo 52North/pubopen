@@ -11,11 +11,74 @@ In the remainder of this section we introduce some that we found most accessible
 
 ## Basics
 
-copyright, global trade agreements
+### Copyright
 
-https://en.wikipedia.org/wiki/Lawrence_Lessig
+&copy;
 
-> great resource
+
+Copyright is a legal concept that gives the creator of a work the exclusive right to use that work for a limited time (though sticky).
+
+Protects creator(s) from economical and ideological abuse of their works.
+
+You have it by default and make the terms and conditions.
+
+Limitations exist (fair use, ideas, exhaustion, …).
+
+Small threshold for originality (“kleine Münze”).
+	http://softwarefreedom.org/resources/2007/originality-requirements.html
+
+http://en.wikipedia.org/wiki/Copyright
+
+
+Quick history:
+
+Rome, Mediaeval ages > Nope.
+
+Letterpress! > “Printer’s Privilige/Copyright”
+Copyright Act of 1709, also known as the Statute of Anne (British)
+
+(1789…) 1793 Droit d’auteur (love and creativity, authors want acknowledgement not money)
+
+1965 UrhG
+
+Sources: http://en.wikipedia.org/wiki/History_of_copyright_law 
+
+
+### Copyleft
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Copyleft.svg" width="48">
+
+Make work free* and require modified and extended versions to be free*.
+“Copyleft is a general method for making a program (or other work) free, and requiring all modified and extended versions of the program to be free as well.” […] “Proprietary software developers use copyright to take away the users' freedom; we use copyright to guarantee their freedom. That's why we reverse the name, changing “copyright” into “copyleft.” http://www.gnu.org/copyleft/copyleft.html 
+
+“Viral” is mostly FUD.
+
+“Proprietary software developers use copyright to take away the users' freedom; we use copyright to guarantee their freedom.”
+
+Types = What is imposed on derivative work?
+
+Strong
+
+Weak
+
+Non-copyleft
+
+Sources: http://www.gnu.org/copyleft/  http://en.wikipedia.org/wiki/Copyleft   http://www.visionmobile.com/blog/2011/03/the-open-source-trials-hanging-in-the-legal-balance-of-copyright-and-copyleft/  
+
+### global trade agreements
+
+Berne convention
+TRIPS
+http://en.wikipedia.org/wiki/Agreement_on_Trade-Related_Aspects_of_Intellectual_Property_Rights
+
+### Software Copyright
+
+Proprietary software & free and open source licenses rely on it.
+
+Case law exists, bit withEU and US … everything is still in the flow… lessFUD though!
+
+
+http://en.wikipedia.org/wiki/Software_copyright
 
 
 ## License Types
