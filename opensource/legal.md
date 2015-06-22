@@ -59,6 +59,8 @@ Apache: http://www.apache.org/licenses/#clas
 Resources: http://www.oss-watch.ac.uk/resources/cla http://en.wikipedia.org/wiki/Contributor_License_Agreement 
 http://development.contributoragreements.org/ 
 
+https://wiki.eclipse.org/CLA
+
 ## Notices and License Headers
 
 Notices are not required to secure copyright.
@@ -70,4 +72,10 @@ http://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html
 ## Version Control System
 
 Strict requirement for copyright management, see http://www.softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html#fn2 
+
+## Trademarking
+
+very common (e.g. Eclipse, Apache) and encouraged way to maintain control over a project
+
+
 
