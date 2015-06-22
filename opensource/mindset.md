@@ -22,15 +22,10 @@ For an optional read about the controversy defining what open source software is
 
 There's plenty of descriptions of the history of open source available online, we recommend the following to pages (roughly 1 hour of reading) without replicating the key events:
 
-* [History of free software on Wikipedia](https://en.wikipedia.org/wiki/History_of_free_software)
+* ["History of free software" on Wikipedia](https://en.wikipedia.org/wiki/History_of_free_software)
+* ["Open-source movement" on Wikipedia](https://en.wikipedia.org/wiki/Open-source_movement)
 * [History of the OSI](http://opensource.org/history)
 * [The 9 most important events in Open Source history](http://royal.pingdom.com/2010/01/15/the-9-most-important-events-in-open-source-history/), including a comment thread showing that boiling down open source to "X events" is impossible
-
-
-
-the catheedral and the bazaar
-
-open source definition OSI
 
 ### Terms "free", "libre" and "open source"
 
