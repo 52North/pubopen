@@ -18,6 +18,7 @@ copyright vs. copyleft, strong, weak, public domain
 
 creative commons
 
+https://tldrlegal.com/
 
 ## Popular Licenses
 
