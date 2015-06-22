@@ -14,7 +14,7 @@
    * [Success Stories](opensource/success.md)
    * [Legal Stuff](opensource/legal.md)
    * [Guide](opensource/guide.md)
-   * People
+   * [People](opensource/people.md)
 * [Software Communities](communities/index.md)
    * [Community Building and Openness](communities/building.md)
    * [Project Organisation](communities/organisation.md)
