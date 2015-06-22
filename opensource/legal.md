@@ -175,4 +175,15 @@ Strict requirement for copyright management, see http://www.softwarefreedom.org/
 very common (e.g. Eclipse, Apache) and encouraged way to maintain control over a project
 
 
+<!-- not yet sure where these could go:
+
+http://www.linux.com/news/featured-blogs/205-mike-dolan/833369-why-companies-that-use-open-source-need-a-compliance-program
+
+http://www.linux.com/news/featured-blogs/205-mike-dolan/833808-5-essential-duties-of-legal-counsel-in-an-open-source-compliance-program
+
+http://www.linux.com/news/featured-blogs/205-mike-dolan/833810-5-practical-ways-for-legal-counsel-to-advise-developers-on-open-source
+
+-->
+
+
 
