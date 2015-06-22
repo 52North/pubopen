@@ -15,6 +15,9 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 The "source code" of this document is hosted [on Github]({{ variables.repoUrl }}) and the book was written and published using [GitBook](https://www.gitbook.com).
 
+The text is designed to be read in the [web view](http://52north.gitbooks.io/pubopen/content/), but PDF and other formats, e.g. for e-readers, area available as well.
+
+
 **Version: 0.1**
 
 ## Contributors
