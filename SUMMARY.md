@@ -15,6 +15,7 @@
    * [Legal Stuff](opensource/legal.md)
    * [Guide](opensource/guide.md)
    * [People](opensource/people.md)
+* GitHub
 * [Software Communities](communities/index.md)
    * [Community Building and Openness](communities/building.md)
    * [Project Organisation](communities/organisation.md)
@@ -22,5 +23,4 @@
    * [Types of Contributors and Tasks](communities/contributors.md)
 * [Scientific Publishing of Data and Software](publishing/index.md)
 * [Contribute](CONTRIBUTE.md)
-* GitHub
 
