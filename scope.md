@@ -18,12 +18,14 @@ As you might have noticed, we try to use icons in the text to show when content 
         <h3 class="panel-title"><i class="octicon octicon-megaphone"></i> Guide: Should I publish my code, when, and what part of it?</h3>
     </div>
     <div class="panel-body">
-        <p>In short... <b>yes, from the start, the reusable abstract core.</b></p>
-        <p>But you should not publish your code as part of a "dissemination" for others to use at the end of your work. If you don't plan to continue working on something, don't dump it on the world.</p>
+        <p>In short... <b>yes, publish reusable abstract core functions from the start.</b></p>
+        <p>You should not publish your code as part of a "dissemination" for others to use at the end of your work. If you don't plan to continue working on something, don't dump it on the world.</p>
         
         <p>By publishing your code you can effectively...</p>
         <ul>
-            <li>demonstrate scientific rigour.</li>
+            <li>demonstrate scientific rigor.</li>
+            <li>improve the quality of the code and subsequently your research.</li>
+            <li>start collaborations with other researchers.</li>
             <li>...</li>
         </ul>
         
