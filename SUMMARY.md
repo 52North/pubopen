@@ -16,7 +16,7 @@
    * [Guide](opensource/guide.md)
    * [People](opensource/people.md)
 * [GitHub](github/index.md)
-   * Basics: Accounts & Repositories
+   * [Basics: Accounts & Repositories](basics.md)
    * Fork & Pull Workflow
 * [Software Communities](communities/index.md)
    * [Community Building and Openness](communities/building.md)
