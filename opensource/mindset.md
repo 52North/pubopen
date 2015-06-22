@@ -65,7 +65,7 @@ Extended reading (not included in one weekend):
 If you really want to get into the culture of software developers and open source enthusiasts, try out any combination of the following.
 
 * Regularly read [XKCD](http://xkcd.com/), [What if?](http://what-if.xkcd.com/), [Dilbert](http://dilbert.com/) and [Geek&Poke](http://geek-and-poke.com/) web comics so you can make conversation at lunch
-* Follow technology news on [Slashdot](http://slashdot.org/)
+* Follow technology news on [Slashdot](http://slashdot.org/) or [Ars Technica](http://arstechnica.com/)
 * Watch [This Week in Tech](https://twit.tv/shows/this-week-in-tech)
 * If you're in Germany, [heise online](http://www.heise.de/) is also good to follow technology news
 
