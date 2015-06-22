@@ -17,6 +17,7 @@
    * [People](opensource/people.md)
 * [GitHub](github/index.md)
    * Basics: Accounts & Repositories
+   * Fork & Pull Workflow
 * [Software Communities](communities/index.md)
    * [Community Building and Openness](communities/building.md)
    * [Project Organisation](communities/organisation.md)
