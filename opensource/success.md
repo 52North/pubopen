@@ -7,4 +7,10 @@ Open source software is not a niche product. In fact, you reading this very book
 * Linux
 * Firefox & Chrome
 
+
+Mention MapBox or CartoDB and the like?
+
+“We have never given back (to OSM, to open source) because of the license - licenses are just getting in the way - we have given back because it is a smart business decision“ Eric Gunnerson, CEO of MapBox, about why open data matters for businesses. > http://carsten.io/so-if-you-are-opening-up-data-make-it-really-open/
+
+
 Get a detailed inside view to activities of open source projects on [Open Hub](https://www.openhub.net/).
