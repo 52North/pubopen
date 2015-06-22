@@ -48,3 +48,26 @@ http://www.gnu.org/licenses/why-affero-gpl.en.html
 why, what for, how?
 
 (links in Email auf 52N Staff discussion)
+
+Individuals or companies don’t want to sign over IPRs (which we automatically have, see previous slides). But some control is required for long-term license management!
+Solution: define all terms under which intellectual property is contributed > relicensing, handle legal disputes.
+
+Examples:
+Apache: http://www.apache.org/licenses/#clas
+52°North: http://52north.org/about/licensing/contributors-license-agreement-faq 
+
+Resources: http://www.oss-watch.ac.uk/resources/cla http://en.wikipedia.org/wiki/Contributor_License_Agreement 
+http://development.contributoragreements.org/ 
+
+## Notices and License Headers
+
+Notices are not required to secure copyright.
+
+*<i class="octicon octicon-quote"></i> Contrary to popular belief, copyright notices aren’t required to secure copyright. Each developer holds copyright in his or her code the moment it is written, and because all the world’s major copyright systems—including the US after 1976—do not require notices, publishing code without a copyright notice doesn’t change this. However, notices do have some legal effect. For example, someone who infringes the copyright of a program published without a notice may be able to claim that the infringement was “innocent” because he or she had no notice of the developers’ copyright claim, and thus seek reduced damages.*
+http://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html 
+
+
+## Version Control System
+
+Strict requirement for copyright management, see http://www.softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html#fn2 
+
