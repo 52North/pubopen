@@ -65,4 +65,13 @@ Extended reading (not included in one weekend):
 * ["Open source" on Wikipedia](https://en.wikipedia.org/wiki/Open_source) (without software)
 * [History of Open Source Hardware](http://www.oshwa.org/research/brief-history-of-open-source-hardware-organizations-and-definitions/) at the Open Source Hardware Association
 
+## The extra mile
+
+If you really want to get into the culture of software developers and open source enthusiasts, try out any combination of the following.
+
+* Regularly read [XKCD](http://xkcd.com/), [What if?](http://what-if.xkcd.com/), [Dilbert](http://dilbert.com/) and [Geek&Poke](http://geek-and-poke.com/) web comics so you can make conversation at lunch
+* Follow technology news on [Slashdot](http://slashdot.org/)
+* Watch [This Week in Tech](https://twit.tv/shows/this-week-in-tech)
+* If you're in Germany, [heise online](http://www.heise.de/) is also good to follow technology news
+
 
