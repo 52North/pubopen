@@ -15,6 +15,8 @@ copyright, global trade agreements
 
 https://en.wikipedia.org/wiki/Lawrence_Lessig
 
+> great resource
+
 
 ## License Types
 
