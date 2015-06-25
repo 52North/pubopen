@@ -17,7 +17,7 @@
    * [People](opensource/people.md)
 * [GitHub](github/index.md)
    * [Basics: Accounts & Repositories](basics.md)
-   * [Fork & Pull Workflow](workflow.md)
+   * [Fork & Pull Workflow](github/workflow.md)
    * [GitHub for Education](education.md)
    * [Social Coding](github/social.md)
 * [Software Communities](communities/index.md)
