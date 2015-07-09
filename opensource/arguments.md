@@ -21,7 +21,7 @@ This quote is taken from the following Web page: http://www.jwz.org/doc/linux.ht
 While it might be true that Linux requires more time to customize it to your needs, it is not true that this time is wasted. In fact, Linux, as many other open source software packages, gives you a lot more flexibility to set-up systems that fit exactly to your needs. Thus, while initially it might take more time, in the end you will have a system which allows you to work extremely efficient.
 
 
-# You cannot earn Money with Open Source
+## You cannot earn Money with Open Source
 
 In this book, we focus on publishing research outputs as open source software. And when we talk about research, the focus should not be on earning money but instead on making the research community aware of your work, showcase your results, and providing a basis that can be re-used and advanced by future research. However, there are still many ways how to make money with open source software. In the following paragraphs we will introduce two perspectives on possible open source business models.
 
@@ -34,7 +34,7 @@ For example, you may follow dual-licensing approach. This means that you publish
 There are even many further opportunities how to make money from open source software. If you would like to share your experiences, we are happy to include your contribution in this book.
 
 
-# I cannot patent my Code
+## I cannot patent my Code
 
 Patents on software are a highly controversial topic. Depending on the country where you are living/working, there might even be no way to get patents for software anyway.
 
