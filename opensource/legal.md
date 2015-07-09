@@ -112,28 +112,34 @@ Please note: All of these are licenses for software code. For other works other 
 
 ## Contributor License Agreements
 
-why, what for, how?
+If you want to contribute to an open source project, you are often required to sign a so-called contributor license agreement (CLA). There are several reasons for this. With a CLA you allow the legal body behind an open source project
+* to work with you code contribution (e.g. to reproduce, to modify, to create derivative works and to combine the contribution with other software code)
+* to grant the Open Source License to potential users
+* to change the terms of the Open Source License for a particular software project if necessary (e.g. changing from a strong copyleft license to a weak copyleft license)
+* to handle legal disputes
 
-(links in Email auf 52N Staff discussion)
+With a CLA you do not have to transfer your full intellectual property rights associated to your copyright (in some countries this is even legally impossible and from a company viewpoint this is often not desirable). Instead, you transfer only those rights that are necessary to allow the long-term license management of the project to which you are contributing.
+There are some example of CLAs which you might study to get a better impression how they work:
+* Apache: http://www.apache.org/licenses/#clas 
+* 52°North: http://52north.org/about/licensing/contributors-licenseagreement-faq
 
-Individuals or companies don’t want to sign over IPRs (which we automatically have, see previous slides). But some control is required for long-term license management!
-Solution: define all terms under which intellectual property is contributed > relicensing, handle legal disputes.
+Further recommended readings are:
+* http://www.oss-watch.ac.uk/resources/cla
+* http://en.wikipedia.org/wiki/Contributor_License_Agreement
+* http://development.contributoragreements.org/
+* https://wiki.eclipse.org/CLA
 
-Examples:
-Apache: http://www.apache.org/licenses/#clas
-52°North: http://52north.org/about/licensing/contributors-license-agreement-faq 
-
-Resources: http://www.oss-watch.ac.uk/resources/cla http://en.wikipedia.org/wiki/Contributor_License_Agreement 
-http://development.contributoragreements.org/ 
-
-https://wiki.eclipse.org/CLA
 
 ## Notices and License Headers
 
-Notices are not required to secure copyright.
+Copyright notices and license headers are not required to secure copyright. Based on most national laws, the creator of a work automatically hold the copyright with the moment it is created (e.g. if you have written a line of code). 
+However, this does not mean that you should not provide copyright notices and license headers as they have certain legal implications:
+* If someone infringes your copyright and there are no copyright notices/license headers, he might use this as an argument to reduce your claims.
+* The license header makes it easy to determine immediately the author and license of a certain piece of source code.
+* You improve your visibility as the author of a certain piece of source code.
 
-*<i class="octicon octicon-quote"></i> Contrary to popular belief, copyright notices aren’t required to secure copyright. Each developer holds copyright in his or her code the moment it is written, and because all the world’s major copyright systems—including the US after 1976—do not require notices, publishing code without a copyright notice doesn’t change this. However, notices do have some legal effect. For example, someone who infringes the copyright of a program published without a notice may be able to claim that the infringement was “innocent” because he or she had no notice of the developers’ copyright claim, and thus seek reduced damages.*
-http://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html 
+You can find more information on this topic [here](http://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html).
+
 
 ## IPR, Licensing and Patents
 
