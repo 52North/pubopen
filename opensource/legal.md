@@ -15,7 +15,6 @@ In the remainder of this section we introduce some that we found most accessible
 
 &copy;
 
-
 [Copyright](http://en.wikipedia.org/wiki/Copyright) is a legal concept that gives the creator of a work certain rights to (exclusively) use that work, grant permissions to other persons, etc. It is intended to protect the creator(s) from economical and ideological abuse of their works. You, as a creator have the copyright by default and usually you can determine under which conditions your work may be used by others. However, the exact scope, which rights a creator of a work has, depends on the specific applicable law (e.g. the copyright laws of specific countries).
 
 Please note that there are also limitations regarding the copyright, which grant some exceptions for specific cases. This is referred as “fair use”. To get an overview, we recommend this [Wikipedia article](https://en.wikipedia.org/wiki/Fair_use). Other limitations concern the exhaustion of the copyright after certain periods (depending on the specific laws).
@@ -29,22 +28,19 @@ Finally, some history: In the old Roman Empire and the mediaeval ages, there was
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Copyleft.svg" width="48">
 
-Make work free* and require modified and extended versions to be free*.
-“Copyleft is a general method for making a program (or other work) free, and requiring all modified and extended versions of the program to be free as well.” […] “Proprietary software developers use copyright to take away the users' freedom; we use copyright to guarantee their freedom. That's why we reverse the name, changing “copyright” into “copyleft.” http://www.gnu.org/copyleft/copyleft.html 
+If you want to make your work free, you might also want that any modification or extensions of this work shall be free. This concept is also called “copyleft”.  This means that you can use the copyleft as a method to ensure that your software is free and that all modifications and extensions of your code have to be free, too. GNU explains this as follows: *"Proprietary software developers use copyright to take away the users' freedom; we use copyright to guarantee their freedom. That's why we reverse the name, changing 'copyright' into 'copyleft.'”* (http://www.gnu.org/copyleft/copyleft.html).
 
-“Viral” is mostly FUD.
+When talking about copyleft, we need to distinguish different types of copyleft. Generally, we can see three main categories:
+* Strong copyleft requires all derived work to inherit the original copyleft license
+* Weak copyleft refers to licenses, which do require not for all derived work that it inherits the copyleft license. For example, you may link your software to a weak copyleft licensed library without using the same license. But if you change the original software, the copyleft license needs to be kept. This is for example useful if you want to publish libraries that shall be re-usable by a broad range of other projects.
+* Non-copyleft does not have requirements on the license of derived software.
+As you will see later on, the different types of copyleft are an important factor when choosing an open source license for your software.
 
-“Proprietary software developers use copyright to take away the users' freedom; we use copyright to guarantee their freedom.”
+If you would like to learn more about copyleft, we recommend the following resources:
+* http://www.gnu.org/copyleft/
+* http://en.wikipedia.org/wiki/Copyleft
+* http://www.visionmobile.com/blog/2011/03/theopen-source-trials-hanging-in-the-legal-balance-of-copyright-and-copyleft/
 
-Types = What is imposed on derivative work?
-
-Strong
-
-Weak
-
-Non-copyleft
-
-Sources: http://www.gnu.org/copyleft/  http://en.wikipedia.org/wiki/Copyleft   http://www.visionmobile.com/blog/2011/03/the-open-source-trials-hanging-in-the-legal-balance-of-copyright-and-copyleft/  
 
 ### global trade agreements
 
