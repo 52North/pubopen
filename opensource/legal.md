@@ -16,9 +16,12 @@ In the remainder of this section we introduce some that we found most accessible
 &copy;
 
 
-Copyright (http://en.wikipedia.org/wiki/Copyright) is a legal concept that gives the creator of a work certain rights to (exclusively) use that work, grant permissions to other persons, etc. It is intended to protect the creator(s) from economical and ideological abuse of their works. You, as a creator have the copyright by default and usually you can determine under which conditions your work may be used by others. However, the exact scope, which rights a creator of a work has, depends on the specific applicable law (e.g. the copyright laws of specific countries).
+[Copyright](http://en.wikipedia.org/wiki/Copyright) is a legal concept that gives the creator of a work certain rights to (exclusively) use that work, grant permissions to other persons, etc. It is intended to protect the creator(s) from economical and ideological abuse of their works. You, as a creator have the copyright by default and usually you can determine under which conditions your work may be used by others. However, the exact scope, which rights a creator of a work has, depends on the specific applicable law (e.g. the copyright laws of specific countries).
+
 Please note that there are also limitations regarding the copyright, which grant some exceptions for specific cases. This is referred as “fair use”. To get an overview, we recommend this [Wikipedia article](https://en.wikipedia.org/wiki/Fair_use). Other limitations concern the exhaustion of the copyright after certain periods (depending on the specific laws).
+
 Finally, copyright requires that you have created some work that has a certain threshold of originality. However, this threshold is generally rather low. An interesting discussion about this topic can be found [here](http://softwarefreedom.org/resources/2007/originality-requirements.html).
+
 Finally, some history: In the old Roman Empire and the mediaeval ages, there was no copyright. At that time it took extremely high efforts to copy a text so that this was not really an issue. However, with the invention of the letterpress this changed. For example this has led to the “Printer’s Privilige” Act of 1709, also known as the Statute of Anne (British law). Other examples are the Droit d’auteur (France, 1793: authors want acknowledgement not money) or the German Urheberrechtsgesetz (UrhG) from 1965. You can find a detailed overview on the history of the copyright on [Wikipedia](http://en.wikipedia.org/wiki/History_of_copyright_law).
 
 
