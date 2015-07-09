@@ -1,8 +1,10 @@
-# Arguments against open source... and how to disprove them
+# Arguments against Open Source... and How to disprove them
 
-## No professional can help me if I have problems
+## No Professional can help me if I have Problems
 
-The opposite is true - you have no vendor lock-in (https://en.wikipedia.org/wiki/Vendor_lock-in).
+In most cases, the opposite is true. Several factors may even ensure a better support for open source components than you can get for closed source software.
+For many open source software projects, there is a large developer community available, which communicates via the Web, mailing lists, etc. Through these resources, you can get direct first-hand support from the developers, who have written the code. When you decide to use a certain open source software package you can even evaluate in advance how these different support channels work, as most communication is extremely transparent.
+Furthermore, many open source projects are backed by commercial companies. These companies usually make a business from offering professional support services for specific open source packages. They will be happy to offer you their services. Furthermore, for these support services you are not bound to one single vendor (see [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in). As the source code is open, it is possible for everyone to dive into the code and to develop fixes or enhancements. However, if you rely on proprietary software and the vendor discontinues the product, if the vendor goes out of business, or if the support contracts offered by the vendor become unattractive, you may run into a problem.
 
 ## Open source software means I cannot sell it
 
