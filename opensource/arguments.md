@@ -34,7 +34,7 @@ For example, you may follow dual-licensing approach. This means that you publish
 There are even many further opportunities how to make money from open source software. If you would like to share your experiences, we are happy to include your contribution in this book.
 
 
-# I cannot patent my code
+# I cannot patent my Code
 
 Patents on software are a highly controversial topic. Depending on the country where you are living/working, there might even be no way to get patents for software anyway.
 
