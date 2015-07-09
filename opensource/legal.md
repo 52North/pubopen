@@ -1,6 +1,6 @@
 # Legal Stuff
 
-Your read right: "<i class="octicon octicon-law"></i> stuff". That shows how gingerly you should pick up the contents of this section. As the nerd says: ["IANAL"](https://en.wikipedia.org/wiki/IANAL) - I am not a laywer, and while we have some experiences with open sources licensing, we cannot give you the professional advice that your require. There are many different legal systems in the world, and if you are in doubt about anything, then get a lawyer or get in touch with colleagues and your legal department, if you have access to one.
+Your read right: "<i class="octicon octicon-law"></i> stuff". That shows how gingerly you should pick up the contents of this section. As the nerd says: ["IANAL"](https://en.wikipedia.org/wiki/IANAL) - I am not a laywer, and while we have some experiences with open sources licensing, we cannot give you the professional advice that your require. There are many different legal systems in the world, and if you are in doubt about anything, then [get a lawyer or get in touch with colleagues and your legal department](http://www.linux.com/news/featured-blogs/205-mike-dolan/833808-5-essential-duties-of-legal-counsel-in-an-open-source-compliance-program), if you have access to one.
 
 Seriously, there is now way around contacting a lawyer specializing in open source licenses if you are unsure about legal matters regarding your open source software or software that you use.
 
@@ -141,24 +141,22 @@ However, this does not mean that you should not provide copyright notices and li
 You can find more information on this topic [here](http://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html).
 
 
-## IPR, Licensing and Patents
-
-http://oss-watch.ac.uk/resources/ipr
-
-## Version Control System
-
-Strict requirement for copyright management, see http://www.softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html#fn2 
-
 ## Trademarking
 
-very common (e.g. Eclipse, Apache) and encouraged way to maintain control over a project
+Many open source projects (e.g. Eclipse, Apache) rely on trademarking to maintain control over the identity of a project. By registering corresponding trademarks, it becomes possible for you to better control who is using your logos or name in which context. As you can imagine, this can become a serious issue.
+
+If you would like to dive a bit deeper into this topic, you may have a look at these two resources:
+* http://communityovercode.com/2011/01/trademarks-in-open-source/
+* http://www.ifosslr.org/ifosslr/article/view/11
+
+
+## Further Resources
+A nice Web page addressing many aspects addressed in this chapter can be found [here](http://oss-watch.ac.uk/resources/ipr).
 
 
 <!-- not yet sure where these could go:
 
 http://www.linux.com/news/featured-blogs/205-mike-dolan/833369-why-companies-that-use-open-source-need-a-compliance-program
-
-http://www.linux.com/news/featured-blogs/205-mike-dolan/833808-5-essential-duties-of-legal-counsel-in-an-open-source-compliance-program
 
 http://www.linux.com/news/featured-blogs/205-mike-dolan/833810-5-practical-ways-for-legal-counsel-to-advise-developers-on-open-source
 
