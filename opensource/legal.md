@@ -57,60 +57,57 @@ For a more detailed overview, we recommend this article: http://en.wikipedia.org
 
 **Copyright Infringement**
 
-Using copyrighted works without permission from the copyright holder, or not following their terms and conditions.
+As you have read, there are many licenses with different conditions. If you are using copyrighted works without permission from the copyright holder, or if you do not follow their terms and conditions, this is called [copyright infringement](http://en.wikipedia.org/wiki/Copyright_infringement). In order to avoid copyright infringements, which may have serious legal consequences, you should consider several aspects:
 
-“Certain free software licenses, most notably GNU General Public License (GPL) substantially rely on existing copyright law. It is not possible to enforce GPL other than within the framework of existing copyright law.”
-http://en.wikipedia.org/wiki/Copyright_infringement 
+When you want to use open source code, there are two types of legal information that you should look for: the license(s) of the code and the copyright notices of contributing authors (see also  http://www.softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html). 
 
-copyright goes two ways
+Based on this analysis you should be able to understand the compatibility of the license(s) of this code with the license you are using for your own code (and with the licenses of other components you are using).
 
-“Nearly every free software project includes two types of legal information with its source code: the license(s) of the code and the copyright notices of contributing authors.”
-http://www.softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html
+Furthermore, when you publish your code under an open source license, you are required not only to provide information about the license you are using yourself, but also about the licenses of all libraries/software that you are using from your source code.
 
-Got to understand license compatibility
-
-Must include licenses of used software
-
-If I create changed versions I must make sure all previous versions adhered to the license. 
-
-http://www.estrategy-magazin.de/open-source-software-rechtliche-hintergruende-sowie-chancen-und-risiken-fuer-unternehmen.html
-
-Distributed VCS work better in tracing contributions
-
+In many distributed version control system you also receive efficient tools and mechanisms that help you to trace contributions and the licenses of any third party code that is used.
 
 
 ## License Types
 
-copyright vs. copyleft, strong, weak, public domain
+Previously we have already shortly discussed the classification of licenses based on their copyleft. With the additional, specific category, “public domain” this leads to the following groups of open source licenses:
+* Strong copyleft requires all derived work to inherit the original copyleft license
+* Weak copyleft refers to licenses, which do require not for all derived work that it inherits the copyleft license. For example, you may link your software to a weak copyleft licensed library without using the same license. However, if you change the original software, the copyleft license needs to be kept. This is for example useful if you want to publish libraries that shall be re-usable by a broad range of other projects.
+* Non-copyleft does not have requirements on the license of derived software.
+* Public domain: These are works where the intellectual property rights have expired or have been forfeited
 
-creative commons
-
-https://tldrlegal.com/
-
+Besides this, there are other types of licenses such as Creative Commons. However, these licenses are not really intended for software (for example they do not contain any provisions about the distribution of source code). Typically, Creative Commons might be used for works such as photographs, videos, texts, music, etc. Thus, it is not recommended to use Creative Commons licenses for software. 
 
 
 ## Popular Licenses
 
-popular = people actually like and dislike licenses!
-
+If you analyze the licenses used by open source software projects, you will note that certain licenses are used more often than other licenses. You can observe that people sometimes like or dislike certain licenses. The following overview shows some of the most commonly used open source software licenses: 
 * MIT License (MIT) and BSD
-  * http://en.wikipedia.org/wiki/MIT_License respectively http://en.wikipedia.org/wiki/BSD_licenses 
-  * Non-copyleft, permissive
+ * Non-copyleft licenses
+ * Very permissive
+ * http://en.wikipedia.org/wiki/MIT_License and http://en.wikipedia.org/wiki/BSD_licenses
 * Apache Software License (ASL)
-  * Apache Software License, http://www.apache.org/ 
-  * Non-copyleft, permissive
-* GNU General Public License (GPL), strong copyleft
-* LGPL > GNU Lesser General Public License, freedom is “less” guaranteed > http://en.wikipedia.org/wiki/LGPL 
-  * Weak copyleft
-* Affero General Public License (AGPL) http://www.gnu.org/licenses/why-affero-gpl.en.html
-  * avoding the “ASP loophole” for web services > http://en.wikipedia.org/wiki/Affero_General_Public_License 
-  * Strong copyleft
+ * Non-copyleft
+ * Permissive
+ * http://www.apache.org/
+* GNU General Public License (GPL)
+ * Strong copyleft
+ * http://www.gnu.org/licenses/
+* GNU Lesser General Public License (LGPL)
+ * Weak copyleft
+ * http://en.wikipedia.org/wiki/LGPL
+ * http://www.gnu.org/licenses/
+* Affero General Public License (AGPL)
+ * Strong copyleft
+ * Closes a loophole that mainly applies to software deployed on Web servers (see http://www.gnu.org/licenses/why-affero-gpl.en.html)
+ * http://www.gnu.org/licenses/
 
+If you would like to have nice explanations of the different licenses, you might have a look at https://tldrlegal.com/. You can also use this as an overview about further licenses beyond this list.
 
-All of these are licenses for software code, and **NOT** for
-* creative work or art,
-* licenses for open data, or
-* licenses for open hardware.
+Please note: All of these are licenses for software code. For other works other licenses would be better suited:
+* Creative work or art: Licenses such as Creative Commons
+* Open data: Licenses such as Open Data Commons (ODC)
+* Open hardware: Many projects use licenses inspired by open source software licenses but with important differences (see also https://en.wikipedia.org/wiki/Open-source_hardware) 
 
 
 ## Contributor License Agreements
