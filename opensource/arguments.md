@@ -21,56 +21,24 @@ This quote is taken from the following Web page: http://www.jwz.org/doc/linux.ht
 While it might be true that Linux requires more time to customize it to your needs, it is not true that this time is wasted. In fact, Linux, as many other open source software packages, gives you a lot more flexibility to set-up systems that fit exactly to your needs. Thus, while initially it might take more time, in the end you will have a system which allows you to work extremely efficient.
 
 
+# You cannot earn Money with Open Source
 
-# You cannot earn money with open source
+In this book, we focus on publishing research outputs as open source software. And when we talk about research, the focus should not be on earning money but instead on making the research community aware of your work, showcase your results, and providing a basis that can be re-used and advanced by future research. However, there are still many ways how to make money with open source software. In the following paragraphs we will introduce two perspectives on possible open source business models.
 
-research is not focussed on earning money
+The Open Source Geospatial Foundation provide a compact summary about commercial services that can be offered in the context of open source software: http://wiki.osgeo.org/wiki/Commercial_Services. When you have a look at this page, you will notice that this is pretty similar to the revenue opportunities followed by vendors of proprietary software, except that there are no license fees for the software. Typical elements of such an open source business model may comprise consulting, custom developments (e.g. new or modified features) based on an open source software package, maintenance, support with specific service levels, training, etc. And if you are a researcher, open source software may help you to successfully submit new research and development project proposals to further advance and improve your software.
 
-### Open Source Business Models
+On Wikipedia you can even find a comprehensive article on different approaches for open source business models: http://en.wikipedia.org/wiki/Business_models_for_open-source_software. 
 
-Non-open source business models encompass consulting, license fees, EULAs (https://en.wikipedia.org/wiki/End-user_license_agreement)
+For example, you may follow dual-licensing approach. This means that you publish your software under an open source license but for those users who may not be able to comply with this license, you can sell commercial licenses. Another approach is to sell your software as a service (e.g. by providing access to your software as a cloud service). You could also combine your open source software with other proprietary parts that you might sell (e.g. proprietary extensions). Other sources of revenue may comprise the sale of branded merchandise, voluntary donations, partnerships with funding organizations, open-source bounties (https://en.wikipedia.org/wiki/Open-source_bounty), advertising-supported software, or crowdfunding.
 
-...
-
-COTS > https://en.wikipedia.org/wiki/Commercial_off-the-shelf
-
-
-Perspective A:
-* Dual-licensing
-* Selling professional services
-* Selling of branded merchandise
-* Selling software as a service
-* Partnership with funding organizations
-* Voluntary donations
-* Bounties
-* Pre-order/crowdfunding/reverse-bounty model
-* Advertising-supported software
-* Selling of optional proprietary extensions
-* Selling of required proprietary parts of a software product
-* Re-licensing under a proprietary license
-* Obfuscation of source code
-* Delayed open-sourcing
-
-Source: http://en.wikipedia.org/wiki/Business_models_for_open-source_software 
-
-Perspective B - the same as for non-free software:
-
-* Training, Workshops, Know-how dissemination
-* Installation, Maintenance
-* Consultation
-* Customization of interfaces and features
-* Implementation of new features
-* Support and Hotline at all availability levels
-* Research and Development 
-
-Source: http://wiki.osgeo.org/wiki/Commercial_Services
- 
-
+There are even many further opportunities how to make money from open source software. If you would like to share your experiences, we are happy to include your contribution in this book.
 
 
 # I cannot patent my code
 
-software patents are evil
+Patents on software are a highly controversial topic. Depending on the country where you are living/working, there might even be no way to get patents for software anyway.
 
+If you read this book, you are likely a researcher who is working on a project that creates some software/source code as an output. An important factor in todays science community is to maximize the impact of your research. This is a reason why many funding agencies are currently starting to require publications to be open access and software to be open source. The idea of patenting your code would be completely against these requirements and the principles of open and free science.
 
+We recommend to have some further looks on the topic of software patents. The Wikipedia article on https://en.wikipedia.org/wiki/Software_patent might be a good starting point. After that you should decide if software patents are really something you should consider.
 
