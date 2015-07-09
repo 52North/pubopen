@@ -51,11 +51,9 @@ As the copyright laws are very heterogeneous across the world, it is necessary t
 
 ### Software Copyright and Copyright Infringement
 
-Proprietary software & free and open source licenses rely on it.
+In the previous paragraphs, we often used the term “copyright” in conjunction with the more abstract concept “work”. In this book, we deal with a specific type of work: software and source code. Thus, we need to apply the different rules of copyright, copyleft, licenses, etc. on software. Every software, proprietary as well as free and open source software, relies on copyright. While the general concept of copyright has a long history, its application to the specifics of software is still in the flow. In the EU and as well as in the US there is mainly case law on this topic. However, without the concept of copyright it would not be possible the conditions of open source licenses.
 
-Case law exists, bit within EU and US … everything is still in the flow… less FUD though!
-
-http://en.wikipedia.org/wiki/Software_copyright
+For a more detailed overview, we recommend this article: http://en.wikipedia.org/wiki/Software_copyright
 
 **Copyright Infringement**
 
