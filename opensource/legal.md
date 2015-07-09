@@ -44,11 +44,10 @@ If you would like to learn more about copyleft, we recommend the following resou
 * http://www.visionmobile.com/blog/2011/03/theopen-source-trials-hanging-in-the-legal-balance-of-copyright-and-copyleft/
 
 
-### global trade agreements
+### Global Trade Agreements
 
-Berne convention
-TRIPS
-http://en.wikipedia.org/wiki/Agreement_on_Trade-Related_Aspects_of_Intellectual_Property_Rights
+As the copyright laws are very heterogeneous across the world, it is necessary to have international conventions in place to regulate the handling of copyright between different countries. An important element in this context is the [Berne convention](http://en.wikipedia.org/wiki/Agreement_on_Trade-Related_Aspects_of_Intellectual_Property_Rights).
+
 
 ### Software Copyright and Copyright Infringement
 
