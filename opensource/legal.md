@@ -28,7 +28,9 @@ Finally, some history: In the old Roman Empire and the mediaeval ages, there was
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Copyleft.svg" width="48">
 
-If you want to make your work free, you might also want that any modification or extensions of this work shall be free. This concept is also called “copyleft”.  This means that you can use the copyleft as a method to ensure that your software is free and that all modifications and extensions of your code have to be free, too. GNU explains this as follows: *"Proprietary software developers use copyright to take away the users' freedom; we use copyright to guarantee their freedom. That's why we reverse the name, changing 'copyright' into 'copyleft.'”* (http://www.gnu.org/copyleft/copyleft.html).
+If you want to make your work free, you might also want that any modification or extensions of this work shall be free. This concept is also called “copyleft”.  This means that you can use the copyleft as a method to ensure that your software is free and that all modifications and extensions of your code have to be free, too. GNU explains this as follows  (http://www.gnu.org/copyleft/copyleft.html):
+
+*"Proprietary software developers use copyright to take away the users' freedom; we use copyright to guarantee their freedom. That's why we reverse the name, changing 'copyright' into 'copyleft.'”*
 
 When talking about copyleft, we need to distinguish different types of copyleft. Generally, we can see three main categories:
 * Strong copyleft requires all derived work to inherit the original copyleft license
