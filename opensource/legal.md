@@ -151,7 +151,8 @@ If you would like to dive a bit deeper into this topic, you may have a look at t
 
 
 ## Further Resources
-A nice Web page addressing many aspects addressed in this chapter can be found [here](http://oss-watch.ac.uk/resources/ipr).
+
+The UK-based organisation OSS watch is great resources page addressing many aspects addressed in this chapter: **http://oss-watch.ac.uk/resources/ipr**
 
 
 <!-- not yet sure where these could go:
