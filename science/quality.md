@@ -8,7 +8,7 @@ Yes, we actually added a full chapter on Software quality, just to make it look 
 
 If you worry about software quality, we do recommend the following:
 
-* Publish your software as open source from the start - it will make you more aware of documentation and code "beauty", thus increase the quality.
+* Publish your software as open source from the start - it will make you more aware of documentation and code "beauty" ([simple tips for more beautiful and better coding](https://wiki.52north.org/bin/view/Documentation/TipsForBetterCoding) by 52°North developers), thus increase the quality.
 * Use an established documentation framework
 * Follow an established software development lifecycle
 
