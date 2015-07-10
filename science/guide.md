@@ -12,7 +12,7 @@ You can greatly improve the quality of the code and by that <em>of your research
 <!--<li><b>Matlab</b>?</li>-->
 * Document constanctly
   * use "future you" without any previous knowledge as the recipient to judge level of detail of documentation
-  * use a common documentation solution - see [Documentation](./communities/documentation.md)
+  * use a common documentation solution - see [Documentation](./science/documentation.md)
 
 
 <i class="octicon octicon-comment-discussion"></i> Do you know typical frameworks for other languages used in open source development?
