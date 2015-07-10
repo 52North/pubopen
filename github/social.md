@@ -11,7 +11,7 @@ One of the GitHub founders, Chris Wanstrath, gave a great talk at the Esri user 
 
 ![](http://video.esri.com//thumbs/2014/03/3223/3223-social-coding-and-the-future-of-open-source_l.jpg)
 
-After the video, start "watching" a couple of repositories and "follow" some people to stay updated.
+After the video, start "watching" a couple of repositories and "follow" some people to stay updated. Explore some users profiles to see what people are working on and connect with the ones that use similar software or do work that is related to your own.
 
 **Bootcamp articles:**
 
