@@ -22,7 +22,6 @@
    * [GitHub for Education](education.md)
 * [Software Communities](communities/index.md)
    * [Community Building and Openness](communities/building.md)
-   * [Project Organisation](communities/organisation.md)
    * [Marketing and Public Relations](communities/marketing.md)
    * [Types of Contributors and Tasks](communities/contributors.md)
    * [Open Source in Your Domain](domains.md)
