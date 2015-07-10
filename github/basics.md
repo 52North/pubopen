@@ -12,5 +12,6 @@ To get an account on GitHub, simply sign up: https://github.com/join. After you 
 
 * [Set up Git](https://help.github.com/articles/set-up-git/)
 * [Fork a Repo](https://help.github.com/articles/fork-a-repo/)
+* [Good Resources for Learning Git and GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 
 
