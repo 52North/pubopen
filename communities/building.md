@@ -4,6 +4,8 @@
 
 Barriers to FOSS4G Adoption > http://vimeo.com/106231223 
 
+Local user groups and meet-ups > start a dev group?!
+
 ## Success of a project
 
 * Common problem and an open mind
