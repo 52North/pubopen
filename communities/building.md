@@ -1,3 +1,4 @@
+<!--
 # Community Building and Openness <i class="octicon octicon-organization"></i>
 
 Barriers to FOSS4G Adoption > http://vimeo.com/106231223 
@@ -21,3 +22,5 @@ http://oss-watch.ac.uk/resources/buildingcommunities
 open innovation
 
 open procedures
+
+-->
