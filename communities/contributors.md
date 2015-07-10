@@ -2,6 +2,8 @@
 
 There are many tasks in an open source projects besides actually writing code. In this section, we point to some articles worth reading presenting the different types of contributions you can make yourself or that you can encourage others to give your project.
 
+*This extensive list nicely shows how many different ways there are - so get started now and participate yourself and motivate others.*
+
 * [7 Ways Non-programmers Can Contribute to Open Source Projects](http://www.shareable.net/blog/7-ways-non-programmers-can-contribute-to-open-source-projects)
   * use the product
   * bug test
