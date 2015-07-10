@@ -20,9 +20,9 @@ Did you really just skip over the list of reading? OK then simply use **Scrum** 
 Our whole life is just an endless line of *"collect, compare, decide"*, and so is software development. If you do that alone or with many people does not matter, but to successfully employ this process you need a few features, all of which are provided by the GitHub platform:
 
 * Source code versioning
-* Documentation platform
-* Issue or task tracking
-* Website
+* [Documentation platform (wiki)](https://help.github.com/articles/about-github-wikis/)
+* [Issue or task tracking](https://guides.github.com/features/issues/)
+* [Website](https://pages.github.com/)
 * (mailing list only if you use emails still...)
 
 There are of course other source code versioning systems ([Mercurial](http://mercurial.selenic.com/), [Bazaar](http://bazaar.canonical.com/en/), [SVN](http://tortoisesvn.net/)), but Git is the real deal. *Going with the flow* makes it easier for new developers to join your project.
