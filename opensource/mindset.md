@@ -12,9 +12,9 @@ Open source has a strong relation to science and research, with many institution
 
 The OSI [defines](http://opensource.org/osd) open source as software following a set of criteria that ensure free distribution, extendability, and non-discrimination. The full criteria are online and the [annotated version](http://opensource.org/osd-annotated) is a highly recommended read. The minimal excerpt of the [definition by the Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html) (FSF) is as follows and is the one paragraph that you should remember.
 
-*<i class="octicon octicon-quote"></i> “Free software” means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price.* ([source](https://www.gnu.org/philosophy/free-sw.html))
+> *<i class="octicon octicon-quote"></i> “Free software” means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price.* ([source](https://www.gnu.org/philosophy/free-sw.html))
 
-Read the full definition and try to make up your own mind about the "campaign" of the FSF, if you agree that nonfree software is "unethical", and how FSF and OSI relate to each other.
+Read the full definition and try to make up your own mind about the "campaign" of the FSF, if you agree that nonfree software is really "unethical", and how FSF and OSI relate to each other.
 
 For an optional read about the controversy defining what open source software is, please see Wikipedia [here](https://en.wikipedia.org/wiki/Open-source_software) and [here](https://en.wikipedia.org/wiki/Free_and_open-source_software).
 
@@ -31,7 +31,7 @@ There's plenty of descriptions of the history of open source available online, w
 
 No introduction to open source can (or should) be complete without the following famous quote by Richard Stallmann:
 
-*<i class="octicon octicon-quote"></i> Free software is a matter of liberty, not price. To understand the concept, you should think of free as in free speech, not as in free beer.* [source](https://www.gnu.org/philosophy/free-sw.html)
+> *<i class="octicon octicon-quote"></i> Free software is a matter of liberty, not price. To understand the concept, you should think of free as in free speech, not as in free beer.* [source](https://www.gnu.org/philosophy/free-sw.html)
 
 As you can see "free software", "[libre](https://en.wikipedia.org/wiki/Gratis_versus_libre) software" and "open source software" have slightly different meanings that might seem nit-picky to the newcomer, but are an important part of the history and understanding of "somehow publicly available software".
 
@@ -49,7 +49,7 @@ For a full history of the term and related concepts such as "white/black hat", "
 
 To a large extend, open source developers are no different from any other software developer. A **must read** for understanding the "software world", not only open source, and the people living and working in it, is the Story ["What is Code?" by Paul Ford for Bloomberg Businessweek](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/). From the introduction message by [Josh Tyrangiel](https://en.wikipedia.org/wiki/Josh_Tyrangiel): 
 
-*<i class="octicon octicon-quote"></i> Software has been around since the 1940s. Which means that people have been faking their way through meetings about software, and the code that builds it, for generations. [...] a single story devoted to ­demystifying code and the culture of the people who make it.*
+> *<i class="octicon octicon-quote"></i> Software has been around since the 1940s. Which means that people have been faking their way through meetings about software, and the code that builds it, for generations. [...] a single story devoted to demystifying code and the culture of the people who make it.*
 
 ## Open Souce (Hardware)
 
