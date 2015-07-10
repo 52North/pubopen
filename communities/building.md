@@ -1,4 +1,6 @@
-# Community Building and Openness
+# Community Building and Openness <i class="octicon octicon-organization"></i>
+
+
 
 Barriers to FOSS4G Adoption > http://vimeo.com/106231223 
 
