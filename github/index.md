@@ -6,6 +6,4 @@ Naturally, GitHub has extensive high quality online documentation: [https://help
 
 Therefore, we only give a brief overview and describe, based on our experiences, why GitHub simply "works". In each section we then link to the relevant contents of the excellent [GitHub Bootcamp](https://help.github.com/categories/bootcamp/).
 
-There are of course alternatives to GitHub, such as [GitLab](https://gitlab.com), which will be incorporated in this guide in the future.
-
 
