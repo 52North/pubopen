@@ -13,13 +13,11 @@ We cannot cover specifc programming languages or recommend specific libraries of
 As you might have noticed, we try to use icons in the text to show when content is <i class="octicon octicon-alert"></i> important, up for <i class="octicon octicon-comment-discussion"></i> discussion, our <i class="octicon octicon-megaphone"></i> opinion, covers <i class="octicon octicon-law"></i> legal aspects, especially relevant for <i class="octicon octicon-mortar-board"></i> PhD students, based on <i class="octicon octicon-link-external"></i> external resources or <i class="octicon octicon-quote"></i> quotes, related to <i class="octicon octicon-pencil"></i> scientific publications, covers <i class="octicon octicon-pulse"></i> new or <i class="octicon octicon-flame"></i> "hot" but naturally unestablished topics, <i class="octicon octicon-comment-discussion"></i> open for discussion or your contributions are needed, or we simply <i class="octicon octicon-heart"></i> really like it.
 
 <!-- http://styleguide.gitbook.com/ -->
-<div class="panel panel-info">
-    <div class="panel-heading">
-        <h3 class="panel-title"><i class="octicon octicon-megaphone"></i> Guide: Should I publish my code, when, and what part of it?</h3>
-    </div>
-    <div class="panel-body">
-        <p>In short... <b>yes, publish reusable abstract core functions from the start.</b></p>
-        <p>You should not publish your code as part of a "dissemination" for others to use at the end of your work. If you don't plan to continue working on something, don't dump it on the world.</p>
+## <i class="octicon octicon-megaphone"></i> Guide: Should I publish my code, when, and what part of it?</h3>
+
+In short... <b>yes, publish reusable abstract core functions from the start.</b>
+
+You should not publish your code as part of a "dissemination" for "others to use" at the end of your work. If you don't plan to continue working on something, don't use open-sourcing to silence your conscience.
         
         <p>By publishing your code you can effectively...</p>
         <ul>
