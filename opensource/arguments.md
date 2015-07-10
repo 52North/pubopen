@@ -12,12 +12,11 @@ Furthermore, many open source projects are backed by commercial companies. These
 
 Even though an open source license does require you to publish the source code your software, there are still many ways how to sell it successfully to customers. In many cases customers are not just interested in the pure software but often they need a whole package of related material and services related to this software. Thus, you need to think about packaging an offer that is attractive for customers. This may include for example specific support agreements, enhanced documentation, help for installing/integrating the software, training, etc.
 And remember that Open source software does not mean “non-commerical”! From http://www.gnu.org/philosophy/free-sw.html:
-*“’Free software’ does not mean ‘noncommercial’. A free program must be available for commercial use, commercial development, and commercial distribution. Commercial development of free software is no longer unusual; such free commercial software is very important. You may have paid money to get copies of free software, or you may have obtained copies at no charge. But regardless of how you got your copies, you always have the freedom to copy and change the software, even to sell copies.”*
+> <i class="octicon octicon-quote"></i> ’Free software’ does not mean ‘noncommercial’. A free program must be available for commercial use, commercial development, and commercial distribution. Commercial development of free software is no longer unusual; such free commercial software is very important. You may have paid money to get copies of free software, or you may have obtained copies at no charge. But regardless of how you got your copies, you always have the freedom to copy and change the software, even to sell copies.*
 
 
-## "Linux is only for free if your Time has no Value"
+## "Linux is only for free if your Time has no Value" ([source](http://www.jwz.org/doc/linux.html))
 
-This quote is taken from the following Web page: http://www.jwz.org/doc/linux.html
 While it might be true that Linux requires more time to customize it to your needs, it is not true that this time is wasted. In fact, Linux, as many other open source software packages, gives you a lot more flexibility to set-up systems that fit exactly to your needs. Thus, while initially it might take more time, in the end you will have a system which allows you to work extremely efficient.
 
 
