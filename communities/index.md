@@ -7,3 +7,5 @@ In this chapter we tackle the human side of open source projects.
 **This section is, more than others, *work in progress*.**
 
 <!-- Read on in the sections about [Community Building](./building.md), [Project Organisation](./organisation.md), [Marketing](./marketing.md), and [Contributors](./contributors.md). -->
+
+We have sections in the making about community building, openness, as well as marketing and public relations.
