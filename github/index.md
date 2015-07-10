@@ -4,6 +4,8 @@ GitHub is _the_ platform for open source software development. Millions of proje
 
 Naturally, GitHub has extensive high quality online documentation: [https://help.github.com/](https://help.github.com/)
 
-Therefore, we only give a brief overview and describe based on our experiences why GitHub works. The contents we cover roughly resemble the [GitHub Bootcamp](https://help.github.com/categories/bootcamp/).
+Therefore, we only give a brief overview and describe, based on our experiences, why GitHub simply "works". The contents we cover roughly resemble the [GitHub Bootcamp](https://help.github.com/categories/bootcamp/).
+
+There are of course alternatives to GitHub, such as [GitLab](https://gitlab.com), which will be incorporated in this guide in the future.
 
 
