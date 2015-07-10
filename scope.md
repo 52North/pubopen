@@ -13,32 +13,30 @@ We cannot cover specifc programming languages or recommend specific libraries of
 As you might have noticed, we try to use icons in the text to show when content is <i class="octicon octicon-alert"></i> important, up for <i class="octicon octicon-comment-discussion"></i> discussion, our <i class="octicon octicon-megaphone"></i> opinion, covers <i class="octicon octicon-law"></i> legal aspects, especially relevant for <i class="octicon octicon-mortar-board"></i> PhD students, based on <i class="octicon octicon-link-external"></i> external resources or <i class="octicon octicon-quote"></i> quotes, related to <i class="octicon octicon-pencil"></i> scientific publications, covers <i class="octicon octicon-pulse"></i> new or <i class="octicon octicon-flame"></i> "hot" but naturally unestablished topics, <i class="octicon octicon-comment-discussion"></i> open for discussion or your contributions are needed, or we simply <i class="octicon octicon-heart"></i> really like it.
 
 <!-- http://styleguide.gitbook.com/ -->
+
+---
+
 ## <i class="octicon octicon-megaphone"></i> Guide: Should I publish my code, when, and what part of it?</h3>
 
 In short... <b>yes, publish reusable abstract core functions from the start.</b>
 
 You should not publish your code as part of a "dissemination" for "others to use" at the end of your work. If you don't plan to continue working on something, don't use open-sourcing to silence your conscience.
         
-        <p>By publishing your code you can effectively...</p>
-        <ul>
-            <li>demonstrate scientific rigor.</li>
-            <li>improve the quality of the code and subsequently your research.</li>
-            <li>start collaborations with other researchers.</li>
-            <li>...</li>
-        </ul>
+By publishing your code you can effectively...
+* demonstrate scientific rigor.
+* improve the quality of the code and subsequently your research.
+* start collaborations with other researchers.
+* ...
+
+The most crucial question is what part of the code should be published. Publish reusable partitions / core libraries / abstract functionality, instead of "solution" to your own problem. The solution to your problem is of course still integrated in the code, but as one of potentially many applications. This allows other to re-use your code, contribute to improve it, and you to take advantage of their improvements.
+
+If possible, you should not start a new project at all but identify an existing solution, framework or community and contribute your new work to it. If you have a valid contribution and can maintain it for some time, any community will welcome you with open arms.
         
-        <p>The most crucial question is what part of the code should be published. Publish reusable partitions / core libraries / abstract functionality, instead of "solution" to your own problem. The solution to your problem is of course still integrated in the code, but as one of potentially many applications. This allows other to re-use your code, contribute to improve it, and you to take advantage of their improvements.</p>
-        
-        <p>If possible, you should not start a new project at all but identify an existing solution, framework or community and contribute your new work to it. If you have a valid contribution and can maintain it for some time, any community will welcome you with open arms.</p>
-        
-        <p>The guides in this book apply to different degress both to very small projects, such as a new algorithm for a specific problmen in biochemistry, to large ones, such as a new cloud-based communication framework for the next generation of internet of things sensor nodes.</p>
-    </div>
-    <div class="panel-footer">
-        <p><i class="octicon octicon-comment-discussion"></i> This is an opinionated view. What are your experiences? Get in touch and contribute!</p>
-        <p><b>Further resources<b></p>
-        <ul>
-            <li>https://wiki.52north.org/bin/view/Documentation/BestPracticeOpenSourceForUniversityResearchers</li>
-            <li>...</li>
-        </ul>
-    </div>
-</div>
+The guides in this book apply to different degrees both to very small projects, such as a new algorithm for a specific problem in biochemistry, to large ones, such as a new cloud-based communication framework for the next generation of internet of things sensor nodes.
+
+<i class="octicon octicon-comment-discussion"></i> This is an opinionated view. What are your experiences? Get in touch and contribute!</p>
+
+**Further resources**
+* https://wiki.52north.org/bin/view/Documentation/BestPracticeOpenSourceForUniversityResearchers
+
+---
