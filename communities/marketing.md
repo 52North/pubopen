@@ -1,7 +1,12 @@
 <!--
 # Marketing and Public Relations
 
-@Ann
+Communicating and interacting with the public and with other developers is important to help the community grow and make your hard work known to the world! 
+
+## Social Media is the way to go
+
+The fastest way to disseminate information is to use social media "tools". There are lots of different possibilities out there, but usually one doesn't have a social media expert on hand. 
+
 <i class="octicon octicon-bug"></i> Twitter
 
 <i class="octicon octicon-bug"></i> Blogs
