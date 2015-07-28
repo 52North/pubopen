@@ -1,7 +1,7 @@
 <!--
 # Marketing and Public Relations
 
-@An
+@Ann
 <i class="octicon octicon-bug"></i> Twitter
 
 <i class="octicon octicon-bug"></i> Blogs
