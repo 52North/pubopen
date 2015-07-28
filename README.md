@@ -3,7 +3,7 @@
 *How can you publish research software as open source?
 And do so without too much overhead and actually gain impact by leveraging the open source approach?*
 
-These are the questions answered in this best practice "Publishing Research Software as Open Source on GitHub" published by the SDI team of the [GLUES](http://modul-a.nachhaltiges-landmanagement.de/de/wissenschaftliche-begleitung-glues/) project.
+These questions are answered in this best practice "Publishing Research Software as Open Source on GitHub". It is published by the [GLUES](http://modul-a.nachhaltiges-landmanagement.de/de/wissenschaftliche-begleitung-glues/) project's SDI team.
 
 ## LICENSE
 
