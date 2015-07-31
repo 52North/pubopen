@@ -1,4 +1,4 @@
-<!--
+
 # Marketing and Public Relations
 
 Communicating and interacting with the public and with other developers is important to help the community grow and make your hard work known to the world! 
@@ -9,7 +9,7 @@ The fastest way to disseminate information is to make use of social media. There
 
 ### The blog 
 
-"You have something to say, and blogs provide a place to say it and be heard." more relaxed style than press releases...
+"You have something to say, and blogs provide a place to say it and be heard." It is more informal than press releases...
 
 A blog "is a discussion or informational site published on the World Wide Web and consisting of discrete entries ("posts") typically displayed in reverse chronological order (the most recent post appears first)." wikipedia... If you are not aware of the concept of blogging, these links provide background information:
 * http://weblogs.about.com/od/startingablog/p/WhatIsABlog.htm
@@ -48,7 +48,7 @@ Rules of thumb for Twitter basics:
 * Keep it under control with Tweetdeck (https://tweetdeck.twitter.com/). Tweetdeck is a nice tool, which gives you an overview of tweets from those you follow as well as yours, notifications, messages and activities.
 * Twitter analytics (http://analytics.twitter.com) provides basic statistical information about your tweets.
 
-##Information dissemination via paper – is that up-to-date?
+## Information dissemination via paper – is that up-to-date?
 
 Although most people look for information online these days, there is still a need for printed material. Do you have a new project, software, solution, application?  How about a cheat sheet/flyer? 
 
@@ -61,7 +61,7 @@ Best practice for flyers
 * Include QR codes (link to Homepage/product page, repository , i.e.GitHub or other repository)
 
 	
-
+##
 <i class="octicon octicon-bug"></i> Twitter
 
 <i class="octicon octicon-bug"></i> Blogs
