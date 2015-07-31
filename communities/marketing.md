@@ -5,7 +5,34 @@ Communicating and interacting with the public and with other developers is impor
 
 ## Social Media is the way to go
 
-The fastest way to disseminate information is to use social media "tools". There are lots of different possibilities out there, but usually one doesn't have a social media expert on hand. 
+The fastest way to disseminate information is to make use of social media. There are lots of different possibilities out there, but usually one doesn't have a social media expert on hand to handle them all.  Two important but "managable" means are blogging and twittering.
+
+### The blog 
+
+"You have something to say, and blogs provide a place to say it and be heard." more relaxed style than press releases...
+
+A blog "is a discussion or informational site published on the World Wide Web and consisting of discrete entries ("posts") typically displayed in reverse chronological order (the most recent post appears first)." wikipedia... If you are not aware of the concept of blogging, these links provide background information:
+* http://weblogs.about.com/od/startingablog/p/WhatIsABlog.htm
+* http://codex.wordpress.org/Introduction_to_Blogging
+
+Why should you blog?
+* http://weblogs.about.com/od/startingablog/tp/Top-Ten-Reasons-to-Blog.htm
+
+How to start blogging?
+* http://www.wikihow.com/Start-a-Blog
+* http://startbloggingonline.com/ 
+* http://howtomakemyblog.com/10-elements-of-style-of-blog-post-writing/
+
+A Few Blogging Tips
+
+* Post regularly, but don't post if you have nothing worth posting about.
+* If you want to involve others in the project development, get feedback about certain developments, build the community, don't just blog about project results, share your ideas, plans, etc.
+* Comment on other peoples' blogs (as they normally visit back).
+
+
+### Twitter
+"Twitter is an online social networking service that enables users to send and read short 140-character messages called "tweets". wikipedia
+It 
 
 <i class="octicon octicon-bug"></i> Twitter
 
