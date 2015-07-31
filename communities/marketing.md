@@ -32,7 +32,34 @@ A Few Blogging Tips
 
 ### Twitter
 "Twitter is an online social networking service that enables users to send and read short 140-character messages called "tweets". wikipedia
-It 
+
+* http://www.wikihow.com/Use-Twitter
+* http://mashable.com/guidebook/twitter/ 
+
+Rules of thumb for Twitter basics:
+1. First create useful content: e.g. blog, newsticker, presentation, etc.
+2. Then twitter:
+* 140 characters in a tweet: It should contain specific point from a longer piece of content, or give an idea of what to learn from content.
+* Use shortened URLS to save characters. There are a number of free link shortener tools available, e.g. http://ow.ly/url/shorten-url or https://bitly.com/ 
+* Use keywords (#hashtags) to find topics and have your topics be found.
+* Use @usernames to reach users with similar interests to that @username’s followers.
+* A picture is worth a thousand words - use pictures. Particularly when at an event. http://www.socialquant.net/images-for-twitter/
+3. Keeping tabs on tweets
+* Keep it under control with Tweetdeck (https://tweetdeck.twitter.com/). Tweetdeck is a nice tool, which gives you an overview of tweets from those you follow as well as yours, notifications, messages and activities.
+* Twitter analytics (http://analytics.twitter.com) provides basic statistical information about your tweets.
+
+##Information dissemination via paper – is that up-to-date?
+
+Although most people look for information online these days, there is still a need for printed material. Do you have a new project, software, solution, application?  How about a cheat sheet/flyer? 
+
+First of all, be clear about who you want to address and what you want to achieve. Target group: Users? Developers?...?
+
+Best practice for flyers
+* Produce the flyer when the topic is hot, don’t wait for an event
+* Keep the format simple and easy to update, e.g DIN A4 single or double paged
+* Make the flyer available to download online
+* Include QR codes (link to Homepage/product page, repository , i.e.GitHub or other repository)
+	
 
 <i class="octicon octicon-bug"></i> Twitter
 
