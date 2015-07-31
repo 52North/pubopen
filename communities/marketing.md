@@ -59,6 +59,7 @@ Best practice for flyers
 * Keep the format simple and easy to update, e.g DIN A4 single or double paged
 * Make the flyer available to download online
 * Include QR codes (link to Homepage/product page, repository , i.e.GitHub or other repository)
+
 	
 
 <i class="octicon octicon-bug"></i> Twitter
