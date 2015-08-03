@@ -20,7 +20,7 @@ For an optional read about the controversy defining what open source software is
 
 ### History
 
-There's plenty of descriptions of the history of open source available online, we recommend the following to pages (roughly 1 hour of reading) without replicating the key events:
+There are plenty of descriptions of the history of open source available online, we recommend the following pages (roughly 1 hour of reading) without replicating the key events:
 
 * ["History of free software" on Wikipedia](https://en.wikipedia.org/wiki/History_of_free_software)
 * ["Open-source movement" on Wikipedia](https://en.wikipedia.org/wiki/Open-source_movement)
@@ -33,15 +33,15 @@ No introduction to open source can (or should) be complete without the following
 
 > *<i class="octicon octicon-quote"></i> Free software is a matter of liberty, not price. To understand the concept, you should think of free as in free speech, not as in free beer.* [source](https://www.gnu.org/philosophy/free-sw.html)
 
-As you can see "free software", "[libre](https://en.wikipedia.org/wiki/Gratis_versus_libre) software" and "open source software" have slightly different meanings that might seem nit-picky to the newcomer, but are an important part of the history and understanding of "somehow publicly available software".
+As you can see, "free software", "[libre](https://en.wikipedia.org/wiki/Gratis_versus_libre) software" and "open source software" have slightly different meanings. That might seem nit-picky to the newcomer, but these distinctions are an important part of the history and understanding of "somehow publicly available software".
 
-Wikipedia has a useful summary of the [naming](https://en.wikipedia.org/wiki/Free_and_open-source_software#Naming) and fun quotes about the unfortunate acronym *FLOSS*, as well as a whole [page discussing the ambiguity of "free"](https://en.wikipedia.org/wiki/Gratis_versus_libre). However, within this document, when we say open source software, we mean "free and libre open source software" and might still use the acronym *FOSS*, trusting you as the now initiated reader to understand the ambiguity of the english word "free".
+Wikipedia has a useful summary of the [naming](https://en.wikipedia.org/wiki/Free_and_open-source_software#Naming) and fun quotes about the unfortunate acronym *FLOSS*, as well as a whole [page discussing the ambiguity of "free"](https://en.wikipedia.org/wiki/Gratis_versus_libre). In this document, when we say open source software, we mean "free and libre open source software". We might still use the acronym *FOSS*, but trust you as the now initiated reader to understand the ambiguity of the english word "free".
 
-Extended further reading (not fitting into one weekend): [Free as in Freedom (2.0): Richard Stallmann and the Free Software Revolution](https://static.fsf.org/nosvn/faif-2.0.pdf) by Sam Williams (book's Wikipedia page, 208 pages plus appendix!)
+Extended further reading (not for one weekend): [Free as in Freedom (2.0): Richard Stallmann and the Free Software Revolution](https://static.fsf.org/nosvn/faif-2.0.pdf) by Sam Williams (book's Wikipedia page, 208 pages plus appendix!)
 
 ## Hacking
 
-The term "hacking" or "hackers", i.e. people who hack, is part of mainstream culture today. We only want to point out that, in the open source communities, hacking as diverse meanings, some of them very positive. The same skillset is required for "cracking" illegaly into secure systems and for solving a very hard informatics problem creatively. So don't worry if someone talks about a "good hack"! 
+The term "hacking" or "hackers", i.e. people who hack, is part of mainstream culture today. We only want to point out that "hacking" in open source communities has diverse meanings, some of them very positive. The same skillset is required for "cracking" illegaly into secure systems and for solving a very hard informatics problem creatively. So don't worry if someone talks about a "good hack"! 
 
 For a full history of the term and related concepts such as "white/black hat", "cracking", or "hacker ethic", see Appendix A of [Free as in Freedom (2.0): Richard Stallmann and the Free Software Revolution](https://static.fsf.org/nosvn/faif-2.0.pdf) and, as always, [Wikipedia on "Hacker"](https://en.wikipedia.org/wiki/Hacker_%28term%29) or [on "Hackerspace"](https://en.wikipedia.org/wiki/Hackerspace) (a.k.a hacklab, hackspace or makerspace).
 
