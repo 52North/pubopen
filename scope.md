@@ -4,8 +4,8 @@ Research of today is driven by (sometimes large amounts of) data from various so
 
 The **target audience** is project managers, work group leaders, and scientists from all domains that use code for their research but have not yet published it. The document provides a quick overview into relevant topics and provides references to more detailed work. The authors aim to use plain language to explain technical topics, but also introduce you to the "lingo" of open source software development. Where useful we add **<i class="octicon octicon-megaphone"></i> Open Guides** to approach a topic from a very opinionated standpoint to answer the most relevant questions for practical applications.
 
-On the one hand, the goal of this publication is to give research project leaders, principal investigators, and researchers a set of workflows that increase the amount of reusable open source software to optimize research and its impact, as well as arguments for negotiations with supervisors or funding agencies that argue in favour of a publication.
-On the other hand, the experiences behind this work come from participation of an open source initiative and small enterprise, which uses open source software as its means of doing applied research in the geoinformatics domain, in funded research projects. These experiences are put into writing for the first time to improve the process of doing problem-driven research within such an organisation.
+On the one hand, the goal of this publication is to give research project leaders, principal investigators, and researchers a set of workflows that increase the amount of reusable open source software to optimize research and its impact, as well as arguments in favour of a publication for negotiations with supervisors or funding agencies.
+On the other hand, this publication is based on an open source initiative and small enterprise's experience in funded research projects. Open Source software is used while doing applied research in the geoinformatics domain. This is the first time that this experience is put into writing and hopes to improve the process of doing problem-driven research within such an organisation.
 
 We cannot cover specifc programming languages or recommend specific libraries of application domains, such as hydrology, physics, or geomorphology. Please feel free to <i class="octicon octicon-comment-discussion"></i> contribute such information as chapters to this document.
 
@@ -23,8 +23,8 @@ In short... <b>yes, publish reusable abstract core functions from the start.</b>
 You should not publish your code as part of a "dissemination" for "others to use" at the end of your work. If you don't plan to continue working on something, don't use open-sourcing to silence your conscience.
         
 By publishing your code you can effectively...
-* demonstrate scientific rigor.
-* improve the quality of the code and subsequently your research.
+* demonstrate scientific rigor,
+* improve the quality of the code and subsequently your research,
 * start collaborations with other researchers.
 * ...
 
