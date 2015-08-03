@@ -28,13 +28,13 @@ By publishing your code you can effectively...
 * start collaborations with other researchers.
 * ...
 
-The most crucial question is what part of the code should be published. Publish reusable partitions / core libraries / abstract functionality, instead of "solution" to your own problem. The solution to your problem is of course still integrated in the code, but as one of potentially many applications. This allows other to re-use your code, contribute to improve it, and you to take advantage of their improvements.
+The most crucial question is what part of the code should be published. Publish reusable partitions / core libraries / abstract functionality, instead of the "solution" to your own problem. The solution to your problem is of course still integrated in the code, but as one of potentially many applications. This allows others to re-use your code and contribute to improve it, and you to take advantage of their improvements.
 
 If possible, you should not start a new project at all but identify an existing solution, framework or community and contribute your new work to it. If you have a valid contribution and can maintain it for some time, any community will welcome you with open arms.
         
-The guides in this book apply to different degrees both to very small projects, such as a new algorithm for a specific problem in biochemistry, to large ones, such as a new cloud-based communication framework for the next generation of internet of things sensor nodes.
+The guides in this book apply both to very small projects, such as a new algorithm for a specific problem in biochemistry, and to large ones, such as a new cloud-based communication framework for the next generation of internet of things sensor nodes.
 
-<i class="octicon octicon-comment-discussion"></i> This is an opinionated view. What are your experiences? Get in touch and contribute!</p>
+<i class="octicon octicon-comment-discussion"></i> This is an opinionated view. What is your experience? Get in touch and contribute!</p>
 
 **Further resources**
 * https://wiki.52north.org/bin/view/Documentation/BestPracticeOpenSourceForUniversityResearchers
