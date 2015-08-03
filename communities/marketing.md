@@ -10,6 +10,7 @@ The fastest way to disseminate information is to make use of social media. There
 ### The blog 
 
 "You have something to say, and blogs provide a place to say it and be heard." 
+ ([source](http://weblogs.about.com/od/startingablog/tp/Top-Ten-Reasons-to-Blog.htm))
 
 A blog is more informal than a press releases. It is "... a discussion or informational site published on the World Wide Web and consisting of discrete entries ("posts") typically displayed in reverse chronological order (the most recent post appears first)." wikipedia... 
 
