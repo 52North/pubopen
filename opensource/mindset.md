@@ -53,9 +53,9 @@ To a large extent, open source developers are no different from any other softwa
 
 ## Open Souce (Hardware)
 
-While this book is concerned with software, we also want to point out that, (a) "Open source" also exists withouts software, and (b) if your research involves creation of hardware as well, there's a whole other world out there!
+While this book is concerned with software, we also want to point out that, (a) "Open source" also exists without software, and (b) if your research involves creation of hardware as well, there's a whole other world out there!
 
-Extended reading (not included in one weekend):
+Extended reading (not a weekend read):
 
 * ["Open source" on Wikipedia](https://en.wikipedia.org/wiki/Open_source) (without software)
 * [History of Open Source Hardware](http://www.oshwa.org/research/brief-history-of-open-source-hardware-organizations-and-definitions/) at the Open Source Hardware Association
@@ -64,9 +64,9 @@ Extended reading (not included in one weekend):
 
 If you really want to get into the culture of software developers and open source enthusiasts, try out any combination of the following.
 
-* Regularly read [XKCD](http://xkcd.com/), [What if?](http://what-if.xkcd.com/), [Dilbert](http://dilbert.com/) and [Geek&Poke](http://geek-and-poke.com/) web comics so you can make conversation at lunch
-* Follow technology news on [Slashdot](http://slashdot.org/) or [Ars Technica](http://arstechnica.com/)
-* Watch [This Week in Tech](https://twit.tv/shows/this-week-in-tech)
-* If you're in Germany, [heise online](http://www.heise.de/) is also good to follow technology news
+* Regularly read [XKCD](http://xkcd.com/), [What if?](http://what-if.xkcd.com/), [Dilbert](http://dilbert.com/) and [Geek&Poke](http://geek-and-poke.com/) web comics so you can make conversation at lunch.
+* Follow technology news on [Slashdot](http://slashdot.org/) or [Ars Technica](http://arstechnica.com/).
+* Watch [This Week in Tech](https://twit.tv/shows/this-week-in-tech).
+* If you're in Germany, [heise online](http://www.heise.de/) is also good to follow for technology news.
 
 
