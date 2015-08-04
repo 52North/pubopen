@@ -4,9 +4,9 @@ Your read right: "<i class="octicon octicon-law"></i> stuff". That shows how gin
 
 Seriously, there is now way around contacting a lawyer specializing in open source licenses if you are unsure about legal matters regarding your open source software or software that you use.
 
-That said, there is a plethora of guides and opinions available online and in books, and several resources exist that cover all typical cases to the extent that a non-expert can be as sure as she can about important questions such as license compatibility.
+That said, there is a plethora of guides and opinions available online and in books. Several resources exist that cover all typical cases to the extent that a non-expert can be as sure as she can about important questions such as license compatibility.
 
-In the remainder of this section we introduce some that we found most accessible and useful and try to summarize the matter for the most typical scenarios.
+In the remainder of this section we introduce some basic information that we found most accessible and useful and try to summarize the matter for the most typical scenarios.
 
 
 ## Basics
