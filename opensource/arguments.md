@@ -1,6 +1,6 @@
 # Arguments against Open Source... and How to disprove them
 
-## No professional can help me if I have problems
+## No Professional can help Me if I have Problems
 
 In most cases, the opposite is true. Several factors may even ensure a better support for open source components than for closed source software. 
 For many open source software projects, there is a large developer community available. Communication takes place via the Web, mailing lists, etc. You can get direct, first-hand support from the developers who have written the code when using these resources. Since most communication is extremely transparent, you can evaluate in advance how these different support channels work when deciding to use a certain open source software package.
@@ -22,7 +22,7 @@ While it might be true that Linux requires more time to customize it according t
 
 ## You cannot earn Money with Open Source
 
-In this book, we focus on publishing research outputs as open source software. And when we talk about research, the focus should not be on earning money but instead on making the research community aware of your work, showcase your results, and providing a basis that can be re-used and advanced by future research. However, there are still many ways how to make money with open source software. In the following paragraphs we will introduce two perspectives on possible open source business models.
+In this book, we focus on publishing research outputs as open source software. When we talk about research, the focus should not be on earning money, but on making the research community aware of your work, showcasing your results, and providing a basis that can be re-used and advanced by future research. There are, however, many ways to make money with open source software. We will introduce two perspectives on possible open source business models in the following paragraphs.
 
 The Open Source Geospatial Foundation provide a [compact summary about commercial services](http://wiki.osgeo.org/wiki/Commercial_Services) that can be offered in the context of open source software. When you have a look at this page, you will notice that this is pretty similar to the revenue opportunities followed by vendors of proprietary software, except that there are no license fees for the software. Typical elements of such an open source business model may comprise consulting, custom developments (e.g. new or modified features) based on an open source software package, maintenance, support with specific service levels, training, etc. And if you are a researcher, open source software may help you to successfully submit new research and development project proposals to further advance and improve your software.
 
