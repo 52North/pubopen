@@ -35,9 +35,9 @@ There are many other opportunities to make money from open source software. If y
 
 ## I cannot patent my Code
 
-Patents on software are a highly controversial topic. Depending on the country where you are living/working, there might even be no way to get patents for software anyway.
+Software patenting is a highly controversial topic. Depending on the country in which you are living/working, there might be no way to get patents for software anyway.
 
-If you read this book, you are likely a researcher who is working on a project that creates some software/source code as an output. An important factor in today's science community is to maximize the impact of your research. This is a reason why many funding agencies are currently starting to require publications to be open access and software to be open source. The idea of patenting your code would be completely against these requirements and the principles of open and reproducible science.
+If you read this book, you are most likely a researcher who is working on a project that creates some software/source code as an output. An important factor in today's science community is to maximize the impact of your research. This is why many funding agencies currently start requiring that publications be open access and software be open source. The idea of patenting your code would be completely against these requirements and the principles of open and reproducible science.
 
-We recommend to have some further looks on the topic of software patents. The [Wikipedia article](https://en.wikipedia.org/wiki/Software_patent) might be a good starting point. After that you should decide if software patents are really something you should consider.
+We recommend further reading on the topic of software patents. The [Wikipedia article](https://en.wikipedia.org/wiki/Software_patent) might be a good starting point. After that you should decide if software patents are really something you should consider.
 
