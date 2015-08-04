@@ -47,7 +47,7 @@ For a full history of the term and related concepts such as "white/black hat", "
 
 ## What is Code?
 
-To a large extent, open source developers are no different from any other software developer. A **must read** for understanding the "software world", not only open source, and the people living and working in it, is the Story ["What is Code?" by Paul Ford for Bloomberg Businessweek](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/). From the introduction message by [Josh Tyrangiel](https://en.wikipedia.org/wiki/Josh_Tyrangiel): 
+To a large extent, open source developers are no different from any other software developers. A **must read** for understanding the "software world" (not only open source) and the people living and working in it, is ["What is Code?" by Paul Ford for Bloomberg Businessweek](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/). [Josh Tyrangiel's](https://en.wikipedia.org/wiki/Josh_Tyrangiel) introduction states: 
 
 > *<i class="octicon octicon-quote"></i> Software has been around since the 1940s. Which means that people have been faking their way through meetings about software, and the code that builds it, for generations. [...] a single story devoted to demystifying code and the culture of the people who make it.*
 
