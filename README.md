@@ -23,7 +23,9 @@ The text is designed to be read in the [web view](http://52north.gitbooks.io/pub
 
 Thanks to these people for providing valuable feedback, reporting errors, ...
 
-* TBD
+* Daniel Nüst
+* Simon Jirka
+* Ann Hitchcock
 
 **Want to become a contributor?** Check our [contribution guidelines](CONTRIBUTE.md).
 
