@@ -1,11 +1,11 @@
 # Reproducibility
 
-Reproducibility lies at the core of science. You should worry about it, especially if you use or develop software within your research. But (sadly) guide is not about good science, so we kindly ask you to contribute good resources to this section to answer questions such as
+Reproducibility lies at the core of science. You should worry about it, especially if you use or develop software within your research. But (sadly) this guide is not about good science, so we kindly ask you to contribute good resources to this section to answer questions such as
 
 * *What is it, why does it matter?*
 * *How does it relate to software?*
 
-**Further ressources:**
+**Further resources:**
 
 * [Making Your Code Citable ](https://guides.github.com/activities/citable-code/) on GitHub
 * http://researchcompendia.org/ 
