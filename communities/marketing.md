@@ -1,13 +1,13 @@
 
 # Marketing and Public Relations
-As [Zach Holman](http://zachholman.com/) put it, "Open Source doesn't just market itself". That is why communication and interaction with the public and with other developers is important to help the community grow and make your hard work known to the world! He also stresses the importance of documentation as marketing
+As [Zach Holman](http://zachholman.com/) put it, "Open Source doesn't just market itself". That is why communication and interaction with the public and with other developers is important to help the community grow and make your hard work known to the world! 
 
-## Marketing Open Source
+To get some ideas about how to market your open source project or business check the following quick reads:
+* [Open Source Doesn't Just Market Itself](http://zachholman.com/posts/open-source-marketing/) (Zach Holman)
+* [Marketing open source is made for geeks](http://opensource.com/business/12/9/a-complete-guide-marketing-project-business) (Sandro Groganz)
+* [Open-Source Projects Need More Than Good Code—They Need Marketing](http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz) (Matt Asay)
 
-Several interesting and though provoking reads on how to market your open source project or business:
-* [Marketing open source is made for geeks](http://opensource.com/business/12/9/a-complete-guide-marketing-project-business)
-* [Open Source Doesn't Just Market Itself](http://zachholman.com/posts/open-source-marketing/)
-
+We particularly like the emphasis Zach Holman puts on the value of great documentation as marketing! 
 
 
 ## Social Media is the way to go
