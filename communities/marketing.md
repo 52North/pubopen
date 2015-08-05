@@ -1,7 +1,14 @@
 
 # Marketing and Public Relations
+As [Zach Holman](http://zachholman.com/) put it, "Open Source doesn't just market itself". That is why communication and interaction with the public and with other developers is important to help the community grow and make your hard work known to the world! He also stresses the importance of documentation as marketing
 
-Communicating and interacting with the public and with other developers is important to help the community grow and make your hard work known to the world! 
+## Marketing Open Source
+
+Several interesting and though provoking reads on how to market your open source project or business:
+* [Marketing open source is made for geeks](http://opensource.com/business/12/9/a-complete-guide-marketing-project-business)
+* [Open Source Doesn't Just Market Itself](http://zachholman.com/posts/open-source-marketing/)
+
+
 
 ## Social Media is the way to go
 
@@ -12,9 +19,9 @@ The fastest way to disseminate information is to make use of social media. There
 "You have something to say, and blogs provide a place to say it and be heard." 
  ([source](http://weblogs.about.com/od/startingablog/tp/Top-Ten-Reasons-to-Blog.htm))
 
-A blog is more informal than a press releases. It is "... a discussion or informational site published on the World Wide Web and consisting of discrete entries ("posts") typically displayed in reverse chronological order (the most recent post appears first)." wikipedia... 
+A blog is more informal than a press release. It is "... a discussion or informational site published on the World Wide Web and consisting of discrete entries ("posts") typically displayed in reverse chronological order (the most recent post appears first)." ([source](https://en.wikipedia.org/wiki/Blog))
 
-If you are not aware of the concept of blogging, these links provide background information:
+If you are not aware of the concept of blogging, these helpful links provide background information:
 * http://weblogs.about.com/od/startingablog/p/WhatIsABlog.htm
 * http://codex.wordpress.org/Introduction_to_Blogging
 
@@ -34,7 +41,7 @@ A Few Blogging Tips
 
 
 ### Microblogging with Twitter
-"Twitter is an online social networking service that enables users to send and read short 140-character messages called "tweets". wikipedia There's a lot more to twitter than microblogging, butit's a start.
+"Twitter is an online social networking service that enables users to send and read short 140-character messages called "tweets" ([source](https://en.wikipedia.org/wiki/Twitter)). There's a lot more to twitter than microblogging, but it's a start.
 * http://webtrends.about.com/od/socialnetworking/a/what-is-twitter.htm
 * http://www.wikihow.com/Use-Twitter
 * http://mashable.com/guidebook/twitter/ 
@@ -42,7 +49,7 @@ A Few Blogging Tips
 Rules of thumb for Twitter basics:
 1. First create useful content: e.g. blog, newsticker, presentation, etc.
 2. Then twitter: 
- * 140 characters in a tweet: It should contain specific point from a longer piece of content, or give an idea of what to learn from content.
+ * 140 characters in a tweet: It should contain a specific point from a longer piece of content, or give an idea of what to learn from content.
  * Use shortened URLS to save characters. There are a number of free link shortener tools available, e.g. http://ow.ly/url/shorten-url or https://bitly.com/ 
  * Use keywords (#hashtags) to find topics and have your topics be found.
  * Use @usernames to reach users with similar interests to that @username’s followers.
@@ -66,8 +73,6 @@ Best practice for flyers
 	
 *Further topics*
 
-* Twitter
-* Blogs
 * managing expectations (openness)
 
 
@@ -92,7 +97,10 @@ OK OK, a new project it is. Then take a look around related projects and communi
 * Search for other projects with the same name, also consider <i class="octicon octicon-law"></i> trademarks (potentially from completely different applications)
 * If a project exists, start from the beginning
 
-<i class="octicon octicon-comment-discussion"></i> This is an opinionated view. What are your experiences? *Get in touch and contribute!*
+<i class="octicon octicon-comment-discussion"></i> This is an opinionated view. What is your experience? *Get in touch and contribute!*
 
-**Further resources
+*Further resources*
  * ...
+ 
+
+ 
