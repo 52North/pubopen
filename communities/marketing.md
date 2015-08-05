@@ -2,7 +2,7 @@
 # Marketing and Public Relations
 As [Zach Holman](http://zachholman.com/) put it, "Open Source doesn't just market itself". That is why communication and interaction with the public and with other developers is important to help the community grow and make your hard work known to the world! 
 
-To get some ideas about how to market your open source project or business check the following quick reads:
+To get some ideas about how to market your open source project, check the following quick reads. They may be somewhat business oriented, but they give you an idea of what is important if you want your software/project to be used:
 * [Open Source Doesn't Just Market Itself](http://zachholman.com/posts/open-source-marketing/) (Zach Holman)
 * [Marketing open source is made for geeks](http://opensource.com/business/12/9/a-complete-guide-marketing-project-business) (Sandro Groganz)
 * [Open-Source Projects Need More Than Good Code—They Need Marketing](http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz) (Matt Asay)
