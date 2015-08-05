@@ -64,11 +64,11 @@ Although most people look for information online these days, there is still a ne
 
 First of all, be clear about who you want to address and what you want to achieve. Is your target group Users? Developers? ...?
 
-Best practice for flyers
+A few tips for flyers:
 * Produce the flyer when the topic is hot, don’t wait for an event.
 * Keep the format simple and easy to update, e.g DIN A4 single or double paged.
 * Make the flyer available to download online.
-* Include QR codes (link to Homepage/product page, repository , i.e.GitHub or other repository).
+* Include QR codes (link to home page /product page, repository, i.e.GitHub or other repository).
 
 	
 *Further topics*
