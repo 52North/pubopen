@@ -1,6 +1,8 @@
 <!--
 # Community Building and Openness <i class="octicon octicon-organization"></i>
 
+"Open Source communities are all about conversation and dialogue" (http://www.collaboratemarketing.com/open_source_marketing/)
+
 Barriers to FOSS4G Adoption > http://vimeo.com/106231223 
 
 Local user groups and meet-ups > start a dev group?!
