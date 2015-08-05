@@ -7,7 +7,7 @@ To get some ideas about how to market your open source project or business check
 * [Marketing open source is made for geeks](http://opensource.com/business/12/9/a-complete-guide-marketing-project-business) (Sandro Groganz)
 * [Open-Source Projects Need More Than Good Code—They Need Marketing](http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz) (Matt Asay)
 
-We particularly like the emphasis Zach Holman puts on the value of great documentation as marketing! 
+<i class="octicon octicon-comment-discussion"></i> We particularly like the emphasis Zach Holman puts on the value of great documentation as marketing! 
 
 
 ## Social Media is the way to go
@@ -102,5 +102,6 @@ OK OK, a new project it is. Then take a look around related projects and communi
 *Further resources*
  * ...
  
-
+## Logos
+t.b.d.
  
