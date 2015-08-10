@@ -21,7 +21,7 @@ The text is designed to be read in the [web view](http://52north.gitbooks.io/pub
 
 ## Contributors
 
-Thanks to these people for providing valuable feedback, reporting errors, ...
+Thanks to these people for providing contents, giving valuable feedback, reporting errors, ...
 
 * Daniel Nüst
 * Simon Jirka
