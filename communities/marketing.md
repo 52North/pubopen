@@ -1,8 +1,8 @@
 
 # Marketing and Public Relations
-As [Zach Holman](http://zachholman.com/) put it, "Open Source doesn't just market itself". That is why communication and interaction with the public and with other developers is important to help the community grow and make your hard work known to the world! 
+As [Zach Holman](http://zachholman.com/) put it, "Open Source doesn't just market itself". Communication and interaction with the public and other developers is important to help the community grow and make your hard work known to the world! 
 
-To get some ideas about how to market your open source project, check the following quick reads. They may be somewhat business oriented, but they give you an idea of what is important if you want your software/project to be used:
+The following quick reads provide an idea of what is important if you want your software/project to be used:
 * [Open Source Doesn't Just Market Itself](http://zachholman.com/posts/open-source-marketing/) (Zach Holman)
 * [Marketing open source is made for geeks](http://opensource.com/business/12/9/a-complete-guide-marketing-project-business) (Sandro Groganz)
 * [Open-Source Projects Need More Than Good Code—They Need Marketing](http://readwrite.com/2014/10/10/open-source-marketing-apache-storm-nathan-merz) (Matt Asay)
@@ -24,8 +24,6 @@ A blog is more informal than a press release. It is "... a discussion or informa
 If you are not aware of the concept of blogging, these helpful links provide background information:
 * http://weblogs.about.com/od/startingablog/p/WhatIsABlog.htm
 * http://codex.wordpress.org/Introduction_to_Blogging
-
-Why should you blog?
 * http://weblogs.about.com/od/startingablog/tp/Top-Ten-Reasons-to-Blog.htm
 
 How to start blogging?
@@ -33,11 +31,15 @@ How to start blogging?
 * http://startbloggingonline.com/ 
 * http://howtomakemyblog.com/10-elements-of-style-of-blog-post-writing/
 
-A Few Blogging Tips
+Which blogging platform?
+Wordpress (wordpress.com/wordpress.org) is the number 1 platform. Blogger (full-fledged blog) and Tumblr (an interesting fusion between a full-fledged blog and a Twitter feed) are among the top 3 platforms.
+* http://thenextweb.com/apps/2013/08/16/best-blogging-services/
+
+Our Blogging Tips
 
 * Post regularly, but don't post if you have nothing worth posting about.
 * If you want to involve others in the project development, get feedback about certain developments, build the community, don't just blog about project results, share your ideas, plans, etc.
-* Comment on other peoples' blogs (as they normally visit back).
+* Comment on other peoples' blogs (they normally visit back).
 
 
 ### Microblogging with Twitter
@@ -46,14 +48,14 @@ A Few Blogging Tips
 * http://www.wikihow.com/Use-Twitter
 * http://mashable.com/guidebook/twitter/ 
 
-Rules of thumb for Twitter basics:
+GUIDE for Twitter basics:
 1. First create useful content: e.g. blog, newsticker, presentation, etc.
 2. Then twitter: 
  * 140 characters in a tweet: It should contain a specific point from a longer piece of content, or give an idea of what to learn from content.
  * Use shortened URLS to save characters. There are a number of free link shortener tools available, e.g. http://ow.ly/url/shorten-url or https://bitly.com/ 
  * Use keywords (#hashtags) to find topics and have your topics be found.
  * Use @usernames to reach users with similar interests to that @username’s followers.
- * A picture is worth a thousand words - use pictures. Particularly when at an event. http://www.socialquant.net/images-for-twitter/
+ * Use pictures. Particularly when at an event. http://www.socialquant.net/images-for-twitter/
 3. Keeping tabs on tweets
  * Keep it under control with Tweetdeck (https://tweetdeck.twitter.com/). Tweetdeck is a nice tool, which gives you an overview of tweets from those you follow as well as yours, notifications, messages and activities.
  * Twitter analytics (http://analytics.twitter.com) provides basic statistical information about your tweets.
