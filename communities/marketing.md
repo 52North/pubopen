@@ -32,8 +32,9 @@ How to start blogging?
 * http://howtomakemyblog.com/10-elements-of-style-of-blog-post-writing/
 
 Which blogging platform?
-Wordpress (wordpress.com/wordpress.org) is the number 1 platform. Blogger (full-fledged blog) and Tumblr (an interesting fusion between a full-fledged blog and a Twitter feed) are among the top 3 platforms.
 * http://thenextweb.com/apps/2013/08/16/best-blogging-services/
+* Wordpress (https://en.wordpress.com/) is the number 1 platform. 
+* Blogger (full-fledged blog) and Tumblr (an interesting fusion between a full-fledged blog and a Twitter feed) are among the top 3 platforms.
 
 ## <i class="octicon octicon-megaphone"></i>Guide for blogging tips
 
