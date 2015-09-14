@@ -35,7 +35,7 @@ Which blogging platform?
 Wordpress (wordpress.com/wordpress.org) is the number 1 platform. Blogger (full-fledged blog) and Tumblr (an interesting fusion between a full-fledged blog and a Twitter feed) are among the top 3 platforms.
 * http://thenextweb.com/apps/2013/08/16/best-blogging-services/
 
-Our Blogging Tips
+## <i class="octicon octicon-megaphone"></i>Guide for blogging tips
 
 * Post regularly, but don't post if you have nothing worth posting about.
 * If you want to involve others in the project development, get feedback about certain developments, build the community, don't just blog about project results, share your ideas, plans, etc.
@@ -48,7 +48,7 @@ Our Blogging Tips
 * http://www.wikihow.com/Use-Twitter
 * http://mashable.com/guidebook/twitter/ 
 
-GUIDE for Twitter basics:
+## <i class="octicon octicon-megaphone"></i>Guide for Twitter basics:
 1. First create useful content: e.g. blog, newsticker, presentation, etc.
 2. Then twitter: 
  * 140 characters in a tweet: It should contain a specific point from a longer piece of content, or give an idea of what to learn from content.
