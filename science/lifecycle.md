@@ -25,13 +25,13 @@ Software development is an endless line of *"collect, compare, decide"*. To succ
 * [Website](https://pages.github.com/)
 * (mailing list only if you still use emails...)
 
-Of course there are other source code versioning systems (e.g. [Mercurial](http://mercurial.selenic.com/), [Bazaar](http://bazaar.canonical.com/en/), [SVN](http://tortoisesvn.net/)), but Git is the real deal. *Go with the flow* - it makes it easier for new developers to join your project.
+There are other source code versioning systems (e.g. [Mercurial](http://mercurial.selenic.com/), [Bazaar](http://bazaar.canonical.com/en/), [SVN](http://tortoisesvn.net/)), but Git is the real deal. *Go with the flow* - it makes it easier for new developers to join your project.
 
 There are many task management systems. [Trello](https://www.atlassian.com/de/software/confluence), for example, is great and integrates very well with GitHub. Does your institution host  [Jira](https://www.atlassian.com/de/software/confluence), [Trac](http://trac.edgewall.org/), [Redmine](http://www.redmine.org/), or [Basecamp](https://basecamp.com/)? Go for it.
 
 You can host websites anywhere. If you need a blog, hosting with GitHub is possible but might not be your first choice. (see marketing...)
 
-There are also **alternatives to GitHub** (see <a href="http://alternativeto.net/software/github/">http://alternativeto.net/software/github/</a> and <a href="http://toppersworld.com/top-10-free-github-alternatives-for-private-repositories/">http://toppersworld.com/top-10-free-github-alternatives-for-private-repositories/</a>), for example BitBucket, or R-Forge. *Go with the flow* of your language/domain. It will lower the barrier for collaboration. You can get commercial support and private repositores, or deploy an Open Source copy using <a href="https://about.gitlab.com/">GitLab</a>
+There are also **alternatives to GitHub** (see <a href="http://alternativeto.net/software/github/">http://alternativeto.net/software/github/</a> and <a href="http://toppersworld.com/top-10-free-github-alternatives-for-private-repositories/">http://toppersworld.com/top-10-free-github-alternatives-for-private-repositories/</a>), for example BitBucket, or R-Forge. *Go with the flow* of your language/domain. It lowers the barrier for collaboration. You can get commercial support and private repositores, or deploy an Open Source copy using <a href="https://about.gitlab.com/">GitLab</a>
 
 <!--
 https://medium.com/@jsiarto/version-control-and-higher-education-78dc8e3f66f1
