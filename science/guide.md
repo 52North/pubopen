@@ -1,8 +1,8 @@
-# <i class="octicon octicon-megaphone"></i> Guide: Do software "right" from the start</h3>
+# <i class="octicon octicon-megaphone"></i> Guide: Do software "right" from the start
 
-You can greatly improve the quality of the code and by that <em>of your research work</em> by following established practices of the language of your choice from the start. The important part here is **from the start**: Spending a little bit of effort in (a) setting up a reproducible dependency and build system in the beginning and (b) documenting the software all the time is a lot easier than trying to add the documentation or "overhaul" when the code is "finished". <i class="octicon octicon-alert"></i> Code is never finished. Seemingly simple information, such as how to set up the environment, or versions of used libraries, is simply lost after code is unused for a few months.
+You can greatly improve the quality of code and <em>of your research</em> by following established practices of the language of your choice **from the start**. Spend a little bit of effort in (a) setting up a reproducible dependency and build system in the beginning and (b) documenting the software all the time. This is a lot easier than trying to add documentation or "overhaul" when the code is "finished". <i class="octicon octicon-alert"></i> Code is never finished. Seemingly simple information, such as how to set up the environment, or versions of used libraries, is simply lost after code is unused for a few months.
 
-* Read a minimum of software development principles so that you know where you can find help. No need to actually learn something you can always look up!
+* Read a minimum of software development principles so that you know where you can find help. No need to learn something you can look up!
 * Don't reinvent the wheel, use established libraries.
 * Use established build and dependency management solutions for your language of choice. Even if you don't plan to publish your code in public repositories, do package it for them because it will enforce good practices.
   * use <a href="http://maven.apache.org/">Maven</a> or <a href="">Gradle</a> for <b>Java</b>
