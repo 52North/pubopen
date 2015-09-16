@@ -1,22 +1,18 @@
 # Mindset
 
-To understand open source development one must understand how open source developers think and work. To do that, there is no way around interacting directly with open source communities, which are as manifold and diverse as the people that engage in them.
+To understand open source development one must understand how open source developers think and work.This section mostly points to worthwhile reading material for a rainy weekend (unless otherwise noted). 
 
-Therefore, this section mostly points to worthwhile reading material for a rainy weekend (unless otherwise noted). Afterwards, even if you have never done "serious" software development yourself or never participated in an open source project, you will understand better the people behind it and their... quirks.
-
-Open source has a strong relation to science and research, with many institutions using and creating open source software, but also with research about open source software. We leave exploring this world to the reader using [Google Scholar](https://scholar.google.de/scholar?hl=de&q=open+source+software) or [Microsoft Academic Search](http://academic.research.microsoft.com/Search?query=open%20source%20software), as well as the domain of printed publications, which is quite large as well (see e.g. [Amazon](http://www.amazon.com/s/ref=nb_sb_noss_2?&field-keywords=open+source+software)).
+Open source has a strong relation to science and research. Many institutions use and create, but also research open source software. Explore this world using [Google Scholar](https://scholar.google.de/scholar?hl=de&q=open+source+software) or [Microsoft Academic Search](http://academic.research.microsoft.com/Search?query=open%20source%20software). See, e.g. [Amazon](http://www.amazon.com/s/ref=nb_sb_noss_2?&field-keywords=open+source+software) for printed publications.
 
 ## What is Open Source?
 
 ### Definition
 
-The OSI [defines](http://opensource.org/osd) open source as software following a set of criteria that ensure free distribution, extendibility, and non-discrimination. The full criteria are online and the [annotated version](http://opensource.org/osd-annotated) is a highly recommended read. The minimal excerpt of the [definition by the Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html) (FSF) is as follows and is the one paragraph that you should remember.
+The OSI [defines](http://opensource.org/osd) open source as software following a set of criteria that ensure free distribution, extendibility, and non-discrimination. The full criteria are online and the [annotated version](http://opensource.org/osd-annotated) is a highly recommended read. The minimal excerpt of the [definition by the Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html) (FSF) is as follows.
 
 > *<i class="octicon octicon-quote"></i> “Free software” means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price.* ([source](https://www.gnu.org/philosophy/free-sw.html))
 
-Read the full definition and try to make up your own mind about the "campaign" of the FSF, if you agree that nonfree software is really "unethical" and how FSF and OSI relate to each other.
-
-For an optional read about the controversy defining what open source software is, please see Wikipedia [here](https://en.wikipedia.org/wiki/Open-source_software) and [here](https://en.wikipedia.org/wiki/Free_and_open-source_software).
+Read the full definition and make up your own mind about the FSF "campaign". Is nonfree software really "unethical"? How do FSF and OSI relate to each other? You can find an optional read about the controversy defining what open source software is [here](https://en.wikipedia.org/wiki/Open-source_software) and [here](https://en.wikipedia.org/wiki/Free_and_open-source_software).
 
 ### History
 
