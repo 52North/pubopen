@@ -16,12 +16,12 @@ Read the full definition and make up your own mind about the FSF "campaign". Is 
 
 ### History
 
-There are plenty of descriptions of the history of open source available online, we recommend the following pages (roughly 1 hour of reading) without replicating the key events:
+There are plenty of online descriptions of the history of open source . We recommend the following pages (roughly 1 hour of reading):
 
 * ["History of free software" on Wikipedia](https://en.wikipedia.org/wiki/History_of_free_software)
 * ["Open-source movement" on Wikipedia](https://en.wikipedia.org/wiki/Open-source_movement)
 * [History of the OSI](http://opensource.org/history)
-* [The 9 most important events in Open Source history](http://royal.pingdom.com/2010/01/15/the-9-most-important-events-in-open-source-history/), including a comment thread showing that boiling down open source to "X events" is impossible
+* [The 9 most important events in Open Source history](http://royal.pingdom.com/2010/01/15/the-9-most-important-events-in-open-source-history/), including a comment thread showing that boiling down open source to "X events" is impossible.
 
 ### Terms "free", "libre" and "open source"
 
