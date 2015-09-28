@@ -1,12 +1,8 @@
 # Legal Stuff
 
-Your read right: "<i class="octicon octicon-law"></i> stuff". That shows how gingerly you should pick up the contents of this section. As the nerd says: ["IANAL"](https://en.wikipedia.org/wiki/IANAL) - I am not a laywer, and while we have some experience with open sources licensing, we cannot give you the professional advice that your require. There are many different legal systems in the world, and if you are in doubt about anything, then [get a lawyer or get in touch with colleagues and your legal department](http://www.linux.com/news/featured-blogs/205-mike-dolan/833808-5-essential-duties-of-legal-counsel-in-an-open-source-compliance-program), if you have access to one.
+["IANAL"](https://en.wikipedia.org/wiki/IANAL) - I am not a lawyer. We have some experience with open sources licensing, but we cannot give you the professional advice that your require. There are many different legal systems in the world. If you are in doubt about legal matters regarding your open source software or software that you use, then [get a lawyer or get in touch with colleagues and your legal department](http://www.linux.com/news/featured-blogs/205-mike-dolan/833808-5-essential-duties-of-legal-counsel-in-an-open-source-compliance-program).
 
-Seriously, there is now way around contacting a lawyer specializing in open source licenses if you are unsure about legal matters regarding your open source software or software that you use.
-
-That said, there is a plethora of guides and opinions available online and in books. Several resources exist that cover all typical cases to the extent that a non-expert can be as sure as she can about important questions such as license compatibility.
-
-In the remainder of this section we introduce some basic information that we found most accessible and useful and try to summarize the matter for the most typical scenarios.
+There is, however, a plethora of guides and opinions available online and in books. We introduce some basic information and try to summarize the matter for the most typical scenarios.
 
 
 ## Basics
