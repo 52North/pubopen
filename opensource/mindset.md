@@ -50,7 +50,7 @@ To a large extent, open source developers are no different from any other softwa
 
 ## Open Souce (Hardware)
 
-While this book is concerned with software, we also want to point out that, (a) "Open source" also exists without software, and (b) if your research involves creation of hardware as well, there's a whole other world out there!
+While this book is concerned with software, (a) "Open source" also exists without software, and (b) if your research involves creation of hardware as well, there's a whole other world out there!
 
 Extended reading:
 
@@ -59,7 +59,7 @@ Extended reading:
 
 ## The extra mile
 
-If you really want to get into the culture of software developers and open source enthusiasts, try out any combination of the following.
+Get into the culture of software developers and open source enthusiasts and try any combination of the following.
 
 * Regularly read [XKCD](http://xkcd.com/), [What if?](http://what-if.xkcd.com/), [Dilbert](http://dilbert.com/) and [Geek&Poke](http://geek-and-poke.com/) web comics so you can make conversation at lunch.
 * Follow technology news on [Slashdot](http://slashdot.org/) or [Ars Technica](http://arstechnica.com/).
