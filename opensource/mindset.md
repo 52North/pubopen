@@ -16,28 +16,29 @@ Read the full definition and make up your own mind about the FSF "campaign". Is 
 
 ### History
 
-There are plenty of online descriptions of the history of open source . We recommend the following pages (roughly 1 hour of reading):
+There are plenty of online descriptions of the history of open source. We recommend the following pages (roughly 1 hour of reading):
 
 * ["History of free software" on Wikipedia](https://en.wikipedia.org/wiki/History_of_free_software)
 * ["Open-source movement" on Wikipedia](https://en.wikipedia.org/wiki/Open-source_movement)
-* [History of the OSI](http://opensource.org/history)
-* [The 9 most important events in Open Source history](http://royal.pingdom.com/2010/01/15/the-9-most-important-events-in-open-source-history/), including a comment thread showing that boiling down open source to "X events" is impossible.
+* ["History of the OSI"](http://opensource.org/history)
+* ["The 9 most important events in Open Source history"](http://royal.pingdom.com/2010/01/15/the-9-most-important-events-in-open-source-history/), including a comment thread showing that boiling down open source to "X events" is impossible.
 
 ### Terms "free", "libre" and "open source"
 
-No introduction to open source can (or should) be complete without the following famous quote by Richard Stallmann:
+> *<i class="octicon octicon-quote"></i> Free software is a matter of liberty, not price. To understand the concept, you should think of free as in free speech, not as in free beer.* [Richard Stallmann](https://www.gnu.org/philosophy/free-sw.html)
 
-> *<i class="octicon octicon-quote"></i> Free software is a matter of liberty, not price. To understand the concept, you should think of free as in free speech, not as in free beer.* [source](https://www.gnu.org/philosophy/free-sw.html)
+"Free software", "[libre](https://en.wikipedia.org/wiki/Gratis_versus_libre) software" and "open source software" have slightly different meanings. These distinctions are important for the history and understanding of "somehow publicly available software".
 
-As you can see, "free software", "[libre](https://en.wikipedia.org/wiki/Gratis_versus_libre) software" and "open source software" have slightly different meanings. That might seem nit-picky to the newcomer, but these distinctions are an important part of the history and understanding of "somehow publicly available software".
+Wikipedia has a summary of the [naming](https://en.wikipedia.org/wiki/Free_and_open-source_software#Naming), fun quotes about the unfortunate acronym *FLOSS*, as well as a whole [page discussing the ambiguity of "free"](https://en.wikipedia.org/wiki/Gratis_versus_libre). 
 
-Wikipedia has a useful summary of the [naming](https://en.wikipedia.org/wiki/Free_and_open-source_software#Naming) and fun quotes about the unfortunate acronym *FLOSS*, as well as a whole [page discussing the ambiguity of "free"](https://en.wikipedia.org/wiki/Gratis_versus_libre). In this document, when we say open source software, we mean "free and libre open source software". We might still use the acronym *FOSS*, but trust you as the now initiated reader to understand the ambiguity of the English word "free".
+When we say open source software, we mean "free and libre open source software". We might use the acronym *FOSS*, but trust you to understand the ambiguity of the English word "free".
 
-Extended further reading (not for one weekend): [Free as in Freedom (2.0): Richard Stallmann and the Free Software Revolution](https://static.fsf.org/nosvn/faif-2.0.pdf) by Sam Williams (book's Wikipedia page, 208 pages plus appendix!)
+Extended reading: 
+* [Free as in Freedom (2.0): Richard Stallmann and the Free Software Revolution](https://static.fsf.org/nosvn/faif-2.0.pdf) by Sam Williams (book's Wikipedia page, 208 pages plus appendix!)
 
 ## Hacking
 
-The term "hacking" or "hackers", i.e. people who hack, is part of mainstream culture today. We only want to point out that the term "hacking" in open source communities has diverse meanings, some of them very positive. The same skill set is required for "cracking" illegaly into secure systems and for solving a very hard informatics problem creatively. So don't worry if someone talks about a "good hack"! 
+The term "hacking" or "hackers", i.e. people who hack, is part of mainstream culture today. In open source communities, the term "hacking" has diverse meanings, some of them very positive. The same skill set is required for "cracking" illegaly into secure systems and for solving a very hard informatics problem creatively. So don't worry if someone talks about a "good hack"! 
 
 For a full history of the term and related concepts such as "white/black hat", "cracking", or "hacker ethic", see Appendix A of [Free as in Freedom (2.0): Richard Stallmann and the Free Software Revolution](https://static.fsf.org/nosvn/faif-2.0.pdf) and, as always, [Wikipedia on "Hacker"](https://en.wikipedia.org/wiki/Hacker_%28term%29) or [on "Hackerspace"](https://en.wikipedia.org/wiki/Hackerspace) (a.k.a hacklab, hackspace or makerspace).
 
@@ -51,7 +52,7 @@ To a large extent, open source developers are no different from any other softwa
 
 While this book is concerned with software, we also want to point out that, (a) "Open source" also exists without software, and (b) if your research involves creation of hardware as well, there's a whole other world out there!
 
-Extended reading (not a weekend read):
+Extended reading:
 
 * ["Open source" on Wikipedia](https://en.wikipedia.org/wiki/Open_source) (without software)
 * [History of Open Source Hardware](http://www.oshwa.org/research/brief-history-of-open-source-hardware-organizations-and-definitions/) at the Open Source Hardware Association
