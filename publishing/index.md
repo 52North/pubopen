@@ -1,10 +1,10 @@
 # Scientific Publishing of Data and Software
 
-There is a growing list of papers and platforms that support the publishing of scientific data and software. As this guide is mostly concert with _creating_ the software, this section is merely a list of (partially commented) links to platforms, journals, repositories, ...
+There is a growing list of papers and platforms that support the publishing of scientific data and software. This guide is mostly concert with _creating_ software, thus this section is a list of (partially commented) links to platforms, journals, repositories, etc.
 
-It should be noted that data is _not_ like software and while GitHub can be used for publishing and collecting data as well, you should take a look around if there are more suitable platforms. The field of publishing software and data is an active area of research itself - why not collaborate and be one of the first in your lab, institution or domain to explore this avenue?
+Please note, data is _not_ like software. While GitHub can be used for publishing and collecting data as well, you should see if there are more suitable platforms. The field of publishing software and data is an area of research itself: Why not collaborate and be one of the first in your lab, institution or domain to explore this avenue?
 
-As a final side-note: the idea of "weaving" code (one of the two aspects of [literal programming](https://en.wikipedia.org/wiki/Literate_programming) with "tangling" being the second) and data right into a single document, for example [Sweave for R](http://www.statistik.lmu.de/~leisch/Sweave/) or [Pweave for Python](http://mpastell.com/pweave/), is worth exploring for anyone using code within research, even if just for creating plots.
+The idea of "weaving" code (one of the two aspects of [literal programming](https://en.wikipedia.org/wiki/Literate_programming), "tangling" being the second) and data into a single document, for example [Sweave for R](http://www.statistik.lmu.de/~leisch/Sweave/) or [Pweave for Python](http://mpastell.com/pweave/), is worth exploring for anyone using code within research, even if just for creating plots.
 
 <i class="octicon octicon-comment-discussion"></i> Contributions to the following list are very welcome!
 
