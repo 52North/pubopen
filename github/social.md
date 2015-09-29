@@ -1,17 +1,18 @@
 # Social Coding
 
-The reason why GitHub is so successful is simple: It makes collaboration with others easy. And it is successful collaboration between people that makes (software) projects themselves a success.
+GitHub is so successful because, it makes collaboration with others easy. Successful collaboration between people makes (software) projects themselves a success.
 
-From the GitHub old mission statement ([via](http://www.techrepublic.com/blog/it-consultant/social-coding-the-next-wave-in-development/)):
 
-> *Code is about the people writing it. We focus on lowering the barriers of collaboration by building powerful features into our products that make it easier to contribute. The tools we create help individuals and companies, public and private, to write better code, faster.*
+> *Code is about the people writing it. We focus on lowering the barriers of collaboration by building powerful features into our products that make it easier to contribute. The tools we create help individuals and companies, public and private, to write better code, faster.* 
 
-One of the GitHub founders, Chris Wanstrath, gave a great talk at the Esri user conference in 2014 about GitHub and open source in general, which is worth the 60 minutes of your time - [watch it here](http://video.esri.com/watch/3223/social-coding-and-the-future-of-open-source ).
+[The GitHub old mission statement](http://www.techrepublic.com/blog/it-consultant/social-coding-the-next-wave-in-development/)
+
+Chris Wanstrath, one of the GitHub founders, gave a great talk (60 min.) at the Esri User Conference 2014 about GitHub and open source in general. [Recommended watch](http://video.esri.com/watch/3223/social-coding-and-the-future-of-open-source ).
 
 
 ![](http://video.esri.com//thumbs/2014/03/3223/3223-social-coding-and-the-future-of-open-source_l.jpg)
 
-After the video, start "watching" a couple of repositories and "follow" some people to stay updated. Explore some users profiles to see what people are working on and connect with the ones that use similar software or do work that is related to your own.
+After viewing the video, "watch" a couple of repositories and "follow" some people to stay updated. Explore users profiles to see what people are working on and connect with those who use similar software or do work related to your own.
 
 **Bootcamp articles:**
 
