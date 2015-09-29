@@ -66,9 +66,7 @@ If you are using copyrighted works without permission from the copyright holder,
 
 ## License Types
 
-In addition to the copyleft licenses "strong copyleft", "weak copyleft" and "non-copyleft" mentioned above, there is a specific category known as "public domain”. These are works for which the intellectual property rights have expired or have been forfeited.
-
-There are additional types of licenses, such as Creative Commons. However, these licenses are not really intended for software (they do not contain any provisions for the distribution of source code). Typically, Creative Commons is used for works such as photographs, videos, texts, music, etc. It is NOT recommended to use Creative Commons licenses for software. 
+In addition to the copyleft licenses "strong copyleft", "weak copyleft" and "non-copyleft" mentioned above, there is a specific category known as "public domain”. This covers works for which the intellectual property rights have expired or have been forfeited. Other types of licenses, such as Creative Commons, are not really intended for software. They do not contain any provisions for the distribution of source code. It is NOT recommended to use Creative Commons licenses for software. 
 
 
 ## Popular Licenses
@@ -96,26 +94,26 @@ Open source projects tend to favor certain licenses over others. The following o
 
 See [explanations of the different licenses for software code](https://tldrlegal.com/). 
 
-Please note: Other licenses would be better suited for works other than software code:
+Other types of licenses, would be better suited for works other than software code.  
 * Creative work or art: Licenses such as Creative Commons
 * Open data: Licenses such as Open Data Commons (ODC)
-* Open hardware: Many projects use licenses inspired by open source software licenses but with important differences (see also https://en.wikipedia.org/wiki/Open-source_hardware) 
+* Open hardware: Many projects use licenses inspired by open source software licenses but with important differences (see also [Open Source Hardware](https://en.wikipedia.org/wiki/Open-source_hardware)).
 
 
 ## Contributor License Agreements
 
 If you want to contribute to an open source project, you are often required to sign a so-called contributor license agreement (CLA). There are several reasons for this. With a CLA you allow the legal body behind an open source project
-* to work with you code contribution (e.g. to reproduce, to modify, to create derivative works and to combine the contribution with other software code)
+* to work with your code contribution (e.g. to reproduce, to modify, to create derivative works and to combine the contribution with other software code)
 * to grant the Open Source License to potential users
 * to change the terms of the Open Source License for a particular software project if necessary (e.g. changing from a strong copyleft license to a weak copyleft license)
-* to handle legal disputes
+* to handle legal disputes.
 
-With a CLA you do not have to transfer your full intellectual property rights associated to your copyright (in some countries this is even legally impossible and from a company viewpoint this is often not desirable). Instead, you transfer only those rights that are necessary to allow the long-term license management of the project to which you are contributing.
-There are some example of CLAs which you might study to get a better impression how they work:
+The CLA does NOT require you to transfer the full intellectual property rights (IRP) associated with your copyright (in some countries this is legally impossible and, from a company viewpoint, it is often undesirable). Instead, you transfer only those rights necessary to allow the long-term license management of the project to which you are contributing.
+The following example of CLAs give you an impression of how they work:
 * Apache: http://www.apache.org/licenses/#clas 
 * 52°North: http://52north.org/about/licensing/contributors-licenseagreement-faq
 
-Further recommended readings are:
+Recommended readings:
 * http://www.oss-watch.ac.uk/resources/cla
 * http://en.wikipedia.org/wiki/Contributor_License_Agreement
 * http://development.contributoragreements.org/
