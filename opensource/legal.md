@@ -102,7 +102,7 @@ Other types of licenses, would be better suited for works other than software co
 
 ## Contributor License Agreements
 
-If you want to contribute to an open source project, you are often required to sign a so-called contributor license agreement (CLA). There are several reasons for this. With a CLA you allow the legal body behind an open source project
+If you want to contribute to an open source project, you are often required to sign a so-called contributor license agreement (CLA). The signed CLA enables the legal body behind an open source project
 * to work with your code contribution (e.g. to reproduce, to modify, to create derivative works and to combine the contribution with other software code)
 * to grant the Open Source License to potential users
 * to change the terms of the Open Source License for a particular software project if necessary (e.g. changing from a strong copyleft license to a weak copyleft license)
@@ -122,10 +122,9 @@ Recommended readings:
 
 ## Notices and License Headers
 
-Copyright notices and license headers are not required to secure copyright. Based on most national laws, the creator of a work automatically hold the copyright with the moment it is created (e.g. if you have written a line of code). 
-However, this does not mean that you should not provide copyright notices and license headers as they have certain legal implications:
+Copyright notices and license headers are not required to secure copyright. Based on most national laws, the creator of a work automatically holds the copyright the moment the work is created (e.g. if you have written a line of code). However, this does NOT mean that you should not provide copyright notices and license headers as they have certain legal implications.
 * If someone infringes your copyright and there are no copyright notices/license headers, he might use this as an argument to reduce your claims.
-* The license header makes it easy to determine immediately the author and license of a certain piece of source code.
+* The license header makes it easy to immediately determine the author and license of a certain piece of source code.
 * You improve your visibility as the author of a certain piece of source code.
 
 You can find more information on this topic [here](http://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html).
@@ -133,16 +132,16 @@ You can find more information on this topic [here](http://softwarefreedom.org/re
 
 ## Trademarking
 
-Many open source projects (e.g. Eclipse, Apache) rely on trademarking to maintain control over the identity of a project. By registering corresponding trademarks, it becomes possible for you to better control who is using your logos or name in which context. As you can imagine, this can become a serious issue.
+Many open source projects (e.g. Eclipse, Apache) rely on trademarking to maintain control ofa project's identity. You can control better who is using your logo or name and in what context if you have registered corresponding trademarks. As you can imagine, this can become a serious issue.
 
-If you would like to dive a bit deeper into this topic, you may have a look at these two resources:
+Recommended Reading:
 * http://communityovercode.com/2011/01/trademarks-in-open-source/
 * http://www.ifosslr.org/ifosslr/article/view/11
 
 
 ## Further Resources
 
-The UK-based organisation OSS watch is great resources page addressing many aspects addressed in this chapter: **http://oss-watch.ac.uk/resources/ipr**
+The UK-based organization OSS watch is a great resource addressing many aspects of this chapter: **http://oss-watch.ac.uk/resources/ipr**
 
 
 <!-- not yet sure where these could go:
