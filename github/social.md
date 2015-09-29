@@ -26,6 +26,6 @@ After viewing the video, "watch" a couple of repositories and "follow" some peop
 
 ## If I work on my own, do I still need GitHub?
 
-<i class="octicon octicon-megahone"></i> Yes! You could just see it as a backup solution, but the more important aspects is the following: Git improves <i class="octicon octicon-mortar-board"></i> your workflow, it encourages to wander off with new ideas (*branches*) and switch between them, and even merge them. And GitHub simply is a great user interface to Git. And just because you work on your own _now_ does not mean it will stay like that forever! On GitHub, friends or colleagues can follow your work and become collaborators.
+<i class="octicon octicon-megahone"></i> Yes! See it as a backup solution, but Git improves <i class="octicon octicon-mortar-board"></i> your workflow, it encourages you to wander off with new ideas (*branches*), switch between them, and even merge them. And GitHub is simply a great Git user interface. Friends and colleagues can follow your work on GitHub and become collaborators.
 
-With Git (or any VCS), you will work in plain text files and keep code and documentation closely together, which makes sure you or anybody can understand what is going on in one week, one month, or one year. 
+With Git (or any VCS), you work in plain text files and keep code and documentation closely together. This ensures that anybody can understand what is going on in one week, one month, or one year.
