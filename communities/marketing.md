@@ -61,13 +61,13 @@ Which blogging platform?
  * Keep it under control with Tweetdeck (https://tweetdeck.twitter.com/). Tweetdeck is a nice tool, which gives you an overview of tweets from those you follow as well as yours, notifications, messages and activities.
  * Twitter analytics (http://analytics.twitter.com) provides basic statistical information about your tweets.
 
-## Information dissemination via paper – is that up-to-date?
+## Information dissemination via paper – outdated?
 
 Although most people look for information online these days, there is still a need for printed material. Do you have a new project, software, solution, application?  How about a cheat sheet/flyer? 
 
 First of all, be clear about who you want to address and what you want to achieve. Is your target group Users? Developers? ...?
 
-A few tips for flyers:
+**Tips for flyers:**
 * Produce the flyer when the topic is hot, don’t wait for an event.
 * Keep the format simple and easy to update, e.g DIN A4 single or double paged.
 * Make the flyer available to download online.
@@ -82,21 +82,21 @@ A few tips for flyers:
 
 # <i class="octicon octicon-megaphone"></i> Guide: How should I name my project?
 
-Really, you worry about the <em>name</em>? Awesome! That means you have figured out all the other issues!
+If you worry about a <em>name</em>, you must have figured out all the other issues!
     
-The first thing you should consider is: Do I really need a name for a new open source project, or would it not be better to contribute my new code as an extension to an existing and established project?
+The first thing to consider is: Do I really need a name for a new open source project, or would it not be better to contribute my new code as an extension to an existing and established project?
 
-OK OK, a new project it is. Then take a look around related projects and communities within the language or framework you base your code on. Are abbreviations common? Do people use rather hip or cool names? This is also a good opportunity to check for existing names.
+If it is to be a new project, take a look at related projects and communities within the language or framework you base your code on. Are abbreviations common? Do people use hip or cool names? Check for existing names.
 
 * <i class="octicon octicon-bug"></i> https://www.google.de/search?q=good+software+project+names (trademarks, …)
 * <i class="octicon octicon-bug"></i> http://www.webdeveloper.com/forum/showthread.php?113873-Great-software-project-names&s=14592899cd3b32c3df12f39bf4616c5e&p=605183#post605183 
         
-**In short:**
+**Tips for naming:**
 
 * Find a good name
   * Avoid abbreviations
-  * Be a visionary and choose a name that fits the overall goal of what your code does, not a specific solution
-  * Prefer existing words from the "real world" - they are a lot easier to remember
+  * Be visionary and choose a name that fits the overall goal of what your code does, not a specific solution
+  * Prefer existing "real world" words - they are a lot easier to remember
 * Search for other projects with the same name, also consider <i class="octicon octicon-law"></i> trademarks (potentially from completely different applications)
 * If a project exists, start from the beginning
 
