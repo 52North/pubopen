@@ -1,6 +1,6 @@
 # Types of Contributors and Tasks <i class="octicon octicon-link-external"></i>
 
-There are many tasks in an open source projects besides actually writing code. In this section, we point to some articles worth reading presenting the different types of contributions you can make yourself or that you can encourage others to give your project.
+There are many tasks in open source projects aside from actually writing code. In this section, we point to some articles worth reading presenting the different types of contributions you can make yourself or that you can encourage others to give your project.
 
 *This extensive list nicely shows how many different ways there are - so get started now and participate yourself and motivate others.*
 
