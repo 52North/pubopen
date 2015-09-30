@@ -1,6 +1,6 @@
 
 # Marketing and Public Relations
-As [Zach Holman](http://zachholman.com/) put it, "Open Source doesn't just market itself". Communication and interaction with the public and other developers is important to help the community grow and make your hard work known to the world! 
+As [Zach Holman](http://zachholman.com/) puts it, "Open Source doesn't just market itself". Communication and interaction with the public and other developers is important to help the community grow and make your hard work known to the world! 
 
 The following quick reads provide an idea of what is important if you want your software/project to be used:
 * [Open Source Doesn't Just Market Itself](http://zachholman.com/posts/open-source-marketing/) (Zach Holman)
@@ -12,7 +12,7 @@ The following quick reads provide an idea of what is important if you want your 
 
 ## Social Media is the way to go
 
-The fastest way to disseminate information is to make use of social media. There are lots of different possibilities out there, but usually one doesn't have a social media expert on hand to handle them all.  Two important but "managable" means are blogging and twittering.
+The fastest way to disseminate information is to make use of social media. There are lots of different platforms, but usually there isn't a social media expert on hand to juggle them. Two important but "managable" means are blogging and twittering.
 
 ### The blog 
 
@@ -31,12 +31,12 @@ How to start blogging?
 * http://startbloggingonline.com/ 
 * http://howtomakemyblog.com/10-elements-of-style-of-blog-post-writing/
 
-Which blogging platform?
+Which blogging platform is best for me?
 * http://thenextweb.com/apps/2013/08/16/best-blogging-services/
 * Wordpress (https://en.wordpress.com/) is the number 1 platform. 
 * Blogger (full-fledged blog) and Tumblr (an interesting fusion between a full-fledged blog and a Twitter feed) are among the top 3 platforms.
 
-## <i class="octicon octicon-megaphone"></i>Guide for blogging tips
+## <i class="octicon octicon-megaphone"></i>Guide for blogging
 
 * Post regularly, but don't post if you have nothing worth posting about.
 * If you want to involve others in the project development, get feedback about certain developments, build the community, don't just blog about project results, share your ideas, plans, etc.
