@@ -7,7 +7,7 @@ This is the contribute.md of 52°North best practice document [Publishing Resear
 You like the best practice and it helped you? Great! Please talk about it:
 
 * On Twitter, using the hashtag `#pubopen @fivetwon`.
-* In your blog, linking to {{ variables.repoUrl }}
+* In your blog, linking to https://github.com/52North/pubopen and/or http://52north.gitbooks.io/pubopen
 * Write to us: gitbook@52north.org
 * In a publication, use the following citation: _Nüst, Daniel, Simon Jirka, and Ann Hitchcock. Publishing Research Software as Open Source on GitHub. June 2015. url: https://www.gitbook.
 com/book/52north/pubopen_
